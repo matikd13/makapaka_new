@@ -922,19 +922,6 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_02:0": {
-    "value": 0.05,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:turtlecookeditem:0": {
     "value": 0.05,
     "color": {
@@ -1104,19 +1091,6 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_04:0": {
-    "value": 0.05,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:crackeritem:0": {
     "value": 0.1,
     "color": {
@@ -1262,19 +1236,6 @@
   },
   "harvestcraft:mudfishrawitem:0": {
     "value": 0.05,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_01_ext:0": {
-    "value": 0.1,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -1546,19 +1507,6 @@
       "meta": 0
     }
   },
-  "tp:diamond_apple:0": {
-    "value": 0.1,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:pomegranatesmoothieitem:0": {
     "value": 0.1,
     "color": {
@@ -1574,19 +1522,6 @@
   },
   "randomthings:beanStew:0": {
     "value": 0.2,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_base:0": {
-    "value": 0.05,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -1639,19 +1574,6 @@
   },
   "harvestcraft:grapefruititem:0": {
     "value": 0.025,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "tp:emerald_apple:0": {
-    "value": 0.1,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -1897,19 +1819,6 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_06:0": {
-    "value": 0.05,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:cherryjuiceitem:0": {
     "value": 0.075,
     "color": {
@@ -1925,6 +1834,19 @@
   },
   "harvestcraft:strawberryjellysandwichitem:0": {
     "value": 0.25,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemCanolaSeed:0": {
+    "value": 0.025,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -2196,6 +2118,19 @@
       "meta": 0
     }
   },
+  "openblocks:tasty_clay:0": {
+    "value": 0.025,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:cottoncandyitem:0": {
     "value": 0.1,
     "color": {
@@ -2444,19 +2379,6 @@
     }
   },
   "harvestcraft:frogcookeditem:0": {
-    "value": 0.05,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_08:0": {
     "value": 0.05,
     "color": {
       "r": 0.49803922,
@@ -2952,19 +2874,6 @@
   },
   "harvestcraft:potatosaladitem:0": {
     "value": 0.175,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "xreliquary:glowing_bread:0": {
-    "value": 0.5,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -4549,6 +4458,19 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemCoffee:0": {
+    "value": 0.2,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:caramelitem:0": {
     "value": 0.05,
     "color": {
@@ -5134,19 +5056,6 @@
       "meta": 0
     }
   },
-  "hardcorewither:starryApple:0": {
-    "value": 0.1,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:peppercornitem:0": {
     "value": 0.025,
     "color": {
@@ -5602,8 +5511,47 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemFood:7": {
+    "value": 0.025,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:limesmoothieitem:0": {
     "value": 0.1,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:8": {
+    "value": 0.4,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:9": {
+    "value": 0.075,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -5628,8 +5576,99 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemFood:3": {
+    "value": 0.35,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:pepperoniitem:0": {
     "value": 0.25,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:4": {
+    "value": 0.25,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:5": {
+    "value": 0.05,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:6": {
+    "value": 0.175,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:0": {
+    "value": 0.025,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:1": {
+    "value": 0.15,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:2": {
+    "value": 0.1,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -5681,6 +5720,19 @@
     }
   },
   "tconstruct:edible:0": {
+    "value": 0.1,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:20": {
     "value": 0.1,
     "color": {
       "r": 0.49803922,
@@ -5799,19 +5851,6 @@
   },
   "harvestcraft:vegetablesoupitem:0": {
     "value": 0.2,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_03_ext:0": {
-    "value": 0.1,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -5994,19 +6033,6 @@
   },
   "harvestcraft:ricesoupitem:0": {
     "value": 0.15,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_01:0": {
-    "value": 0.05,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -6226,8 +6252,34 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemFood:14": {
+    "value": 0.4,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:figjuiceitem:0": {
     "value": 0.075,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:15": {
+    "value": 0.15,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -6252,6 +6304,32 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemFood:12": {
+    "value": 0.1,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:13": {
+    "value": 0.32500002,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:beansandriceitem:0": {
     "value": 0.275,
     "color": {
@@ -6265,8 +6343,34 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemFood:10": {
+    "value": 0.075,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:tacoitem:0": {
     "value": 0.275,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:11": {
+    "value": 0.22500001,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -6304,8 +6408,60 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemFood:18": {
+    "value": 0.05,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:19": {
+    "value": 0.125,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:16": {
+    "value": 0.05,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:kiwiitem:0": {
     "value": 0.025,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemFood:17": {
+    "value": 0.15,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -6538,19 +6694,6 @@
       "meta": 0
     }
   },
-  "tp:golden_apple:0": {
-    "value": 0.1,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:sweetpickleitem:0": {
     "value": 0.175,
     "color": {
@@ -6616,19 +6759,6 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_03:0": {
-    "value": 0.05,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:potatoandcheesepirogiitem:0": {
     "value": 0.15,
     "color": {
@@ -6683,19 +6813,6 @@
   },
   "harvestcraft:roastedchestnutitem:0": {
     "value": 0.1,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_05:0": {
-    "value": 0.05,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -6839,6 +6956,32 @@
   },
   "harvestcraft:porklomeinitem:0": {
     "value": 0.35,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemJam:5": {
+    "value": 0.15,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemJam:6": {
+    "value": 0.15,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -7019,6 +7162,19 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemJam:0": {
+    "value": 0.15,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:scallionbakedpotatoitem:0": {
     "value": 0.2,
     "color": {
@@ -7045,8 +7201,60 @@
       "meta": 0
     }
   },
+  "actuallyadditions:itemJam:3": {
+    "value": 0.15,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemJam:4": {
+    "value": 0.15,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:seaweeditem:0": {
     "value": 0.025,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemJam:1": {
+    "value": 0.15,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
+  "actuallyadditions:itemJam:2": {
+    "value": 0.15,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -7281,19 +7489,6 @@
   },
   "harvestcraft:sweetteaitem:0": {
     "value": 0.15,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_07:0": {
-    "value": 0.05,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -7632,19 +7827,6 @@
   },
   "harvestcraft:strawberrysaladitem:0": {
     "value": 0.2,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "extrautils2:magicapple:0": {
-    "value": 0.1,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -8423,19 +8605,6 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_04_ext:0": {
-    "value": 0.1,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:bambooshootitem:0": {
     "value": 0.025,
     "color": {
@@ -8969,19 +9138,6 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_02_ext:0": {
-    "value": 0.1,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:peachjellyitem:0": {
     "value": 0.125,
     "color": {
@@ -9216,8 +9372,8 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_06_ext:0": {
-    "value": 0.1,
+  "actuallyadditions:itemCoffeeBeans:0": {
+    "value": 0.025,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -9840,19 +9996,6 @@
       "meta": 0
     }
   },
-  "karatgarden:item_carrot_08_ext:0": {
-    "value": 0.1,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
   "harvestcraft:biscuitsandgravyitem:0": {
     "value": 0.2,
     "color": {
@@ -9881,19 +10024,6 @@
   },
   "harvestcraft:cabbageitem:0": {
     "value": 0.025,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_05_ext:0": {
-    "value": 0.1,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
@@ -10193,19 +10323,6 @@
   },
   "harvestcraft:peanutbuttercookiesitem:0": {
     "value": 0.22500001,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "karatgarden:item_carrot_07_ext:0": {
-    "value": 0.1,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,

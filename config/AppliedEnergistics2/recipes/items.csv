@@ -3426,32 +3426,32 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:shard:0, Treated Wood Shard
 tconstruct:shard:0, Constantan Shard
 tconstruct:sharpening_kit:0, Treated Wood Sharpening Kit
@@ -3511,7 +3511,9 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -3609,60 +3611,60 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -6167,149 +6169,162 @@ quantumflux:telepad, Telepad
 quantumstorage:quantumdsu, Quantum Storage Unit
 quantumstorage:quantumtank, Quantum Tank
 quantumstorage:renderupgrade, Upgrade Render
-simplyjetpacks:itemJetpack:0, Creative Jetpack
-simplyjetpacks:itemJetpack:1, Tuberous Jetpack
-simplyjetpacks:itemJetpack:2, Conductive Iron Jetpack
-simplyjetpacks:itemJetpack:3, Electrical Steel Jetpack
-simplyjetpacks:itemJetpack:4, Energetic Jetpack
-simplyjetpacks:itemJetpack:5, Vibrant Jetpack
-simplyjetpacks:itemJetpack:6, Conductive Iron Jetpack (Armored)
-simplyjetpacks:itemJetpack:7, Electrical Steel Jetpack (Armored)
-simplyjetpacks:itemJetpack:8, Energetic Jetpack (Armored)
-simplyjetpacks:itemJetpack:9, Vibrant Jetpack (Armored)
-simplyjetpacks:itemJetpack:10, Dark Soularium JetPlate
-simplyjetpacks:itemJetpack:11, Leadstone Jetpack
-simplyjetpacks:itemJetpack:12, Hardened Jetpack
-simplyjetpacks:itemJetpack:13, Reinforced Jetpack
-simplyjetpacks:itemJetpack:14, Resonant Jetpack
-simplyjetpacks:itemJetpack:15, Flux-Infused JetPlate
-simplyjetpacks:metaItem:0, Particle Customizer (Default)
-simplyjetpacks:metaItem:1, Particle Customizer (None)
-simplyjetpacks:metaItem:2, Particle Customizer (Smoke Only)
-simplyjetpacks:metaItem:3, Particle Customizer (Rainbow Smoke)
-simplyjetpacks:metaItem:4, Iron Thruster
-simplyjetpacks:metaItem:5, Gold Thruster
-simplyjetpacks:metaItem:6, Diamond Thruster
-simplyjetpacks:metaItem:7, Leather Strap
-simplyjetpacks:metaItemMods:0, Dark Soularium Ingot
-simplyjetpacks:metaItemMods:1, Reinforced Glider Wing
-simplyjetpacks:metaItemMods:2, Flight Control Unit (Empty)
-simplyjetpacks:metaItemMods:3, Flight Control Unit
-simplyjetpacks:metaItemMods:4, Conductive Iron Thruster
-simplyjetpacks:metaItemMods:5, Electrical Steel Thruster
-simplyjetpacks:metaItemMods:6, Energetic Thruster
-simplyjetpacks:metaItemMods:7, Vibrant Thruster
-simplyjetpacks:metaItemMods:8, Dark Soularium Thruster
-simplyjetpacks:metaItemMods:9, Silicon Armor Plating
-simplyjetpacks:metaItemMods:10, Conductive Iron Armor Plating
-simplyjetpacks:metaItemMods:11, Electrical Steel Armor Plating
-simplyjetpacks:metaItemMods:12, Dark Steel Armor Plating
-simplyjetpacks:metaItemMods:13, Leadstone Thruster
-simplyjetpacks:metaItemMods:14, Hardened Thruster
-simplyjetpacks:metaItemMods:15, Reinforced Thruster
-simplyjetpacks:metaItemMods:16, Resonant Thruster
-simplyjetpacks:metaItemMods:17, Fluxed Thruster
-simplyjetpacks:itemFluxpack:0, Creative Flux Pack
-simplyjetpacks:itemFluxpack:1, Basic Capacitor Pack
-simplyjetpacks:itemFluxpack:2, Capacitor Pack
-simplyjetpacks:itemFluxpack:3, Vibrant Capacitor Pack
-simplyjetpacks:itemFluxpack:4, Capacitor Pack (Armored)
-simplyjetpacks:itemFluxpack:5, Vibrant Capacitor Pack (Armored)
-solarfluxreborn:solar0, Solar Panel I
-solarfluxreborn:solar1, Solar Panel II
-solarfluxreborn:solar2, Solar Panel III
-solarfluxreborn:solar3, Solar Panel IV
-solarfluxreborn:solar4, Solar Panel V
-solarfluxreborn:solar5, Solar Panel VI
-solarfluxreborn:solar6, Solar Panel VII
-solarfluxreborn:solar7, Solar Panel VIII
-solarfluxreborn:solardraconic, Draconic Solar Panel
-solarfluxreborn:solarchaotic, Chaotic Solar Panel
-solarfluxreborn:wire_1, First Cable
-solarfluxreborn:wire_2, Second Cable
-solarfluxreborn:wire_3, The Last Cable
-solarfluxreborn:mirror, Mirror
-solarfluxreborn:solarCell1, Photovoltaic cell I
-solarfluxreborn:solarCell2, Photovoltaic cell II
-solarfluxreborn:solarCell3, Photovoltaic cell III
-solarfluxreborn:solarCell4, Photovoltaic cell IV
-solarfluxreborn:upgradeEfficiency, Efficiency upgrade
-solarfluxreborn:upgradeLowLight, Low light upgrade
-solarfluxreborn:upgradeTraversal, Machine traversal upgrade
-solarfluxreborn:upgradeTransferRate, Transfer rate upgrade
-solarfluxreborn:upgradeCapacity, Capacity upgrade
-solarfluxreborn:upgradeFurnace, Furnace upgrade
-solarfluxreborn:upgradeBlank, Blank upgrade
-storagedrawers:basicDrawers:0, Basic Drawer
-storagedrawers:basicDrawers:0, Basic Drawer
-storagedrawers:basicDrawers:0, Basic Drawer
-storagedrawers:basicDrawers:0, Basic Drawer
-storagedrawers:basicDrawers:0, Basic Drawer
-storagedrawers:basicDrawers:0, Basic Drawer
-storagedrawers:basicDrawers:1, Basic Drawers 1x2
-storagedrawers:basicDrawers:1, Basic Drawers 1x2
-storagedrawers:basicDrawers:1, Basic Drawers 1x2
-storagedrawers:basicDrawers:1, Basic Drawers 1x2
-storagedrawers:basicDrawers:1, Basic Drawers 1x2
-storagedrawers:basicDrawers:1, Basic Drawers 1x2
-storagedrawers:basicDrawers:2, Basic Drawers 2x2
-storagedrawers:basicDrawers:2, Basic Drawers 2x2
-storagedrawers:basicDrawers:2, Basic Drawers 2x2
-storagedrawers:basicDrawers:2, Basic Drawers 2x2
-storagedrawers:basicDrawers:2, Basic Drawers 2x2
-storagedrawers:basicDrawers:2, Basic Drawers 2x2
-storagedrawers:basicDrawers:3, Half Drawers 1x2
-storagedrawers:basicDrawers:3, Half Drawers 1x2
-storagedrawers:basicDrawers:3, Half Drawers 1x2
-storagedrawers:basicDrawers:3, Half Drawers 1x2
-storagedrawers:basicDrawers:3, Half Drawers 1x2
-storagedrawers:basicDrawers:3, Half Drawers 1x2
-storagedrawers:basicDrawers:4, Half Drawers 2x2
-storagedrawers:basicDrawers:4, Half Drawers 2x2
-storagedrawers:basicDrawers:4, Half Drawers 2x2
-storagedrawers:basicDrawers:4, Half Drawers 2x2
-storagedrawers:basicDrawers:4, Half Drawers 2x2
-storagedrawers:basicDrawers:4, Half Drawers 2x2
-storagedrawers:compDrawers, Compacting Drawer
-storagedrawers:controller, Drawer Controller
-storagedrawers:controllerSlave, Controller Slave
-storagedrawers:trim:0, Oak Trim
-storagedrawers:trim:1, Spruce Trim
-storagedrawers:trim:2, Birch Trim
-storagedrawers:trim:3, Jungle Trim
-storagedrawers:trim:4, Acacia Trim
-storagedrawers:trim:5, Dark Oak Trim
-storagedrawers:framingTable, Framing Table
-storagedrawers:customDrawers:0, Framed Drawer
-storagedrawers:customDrawers:1, Framed Drawers 1x2
-storagedrawers:customDrawers:2, Framed Drawers 2x2
-storagedrawers:customDrawers:3, Framed Half Drawers 1x2
-storagedrawers:customDrawers:4, Framed Half Drawers 2x2
-storagedrawers:customTrim, Framed Trim
-storagedrawers:keybutton:0, Drawer Key Button
-storagedrawers:keybutton:1, Concealment Key Button
-storagedrawers:keybutton:2, Personal Key Button
-storagedrawers:keybutton:3, Quantify Key Button
-storagedrawers:upgradeTemplate, Upgrade Template
-storagedrawers:upgradeStorage:0, Storage Upgrade (I)
-storagedrawers:upgradeStorage:1, Storage Upgrade (II)
-storagedrawers:upgradeStorage:2, Storage Upgrade (III)
-storagedrawers:upgradeStorage:3, Storage Upgrade (IV)
-storagedrawers:upgradeStorage:4, Storage Upgrade (V)
-storagedrawers:upgradeOneStack, Storage Downgrade
-storagedrawers:upgradeStatus:0, Status Upgrade (I)
-storagedrawers:upgradeStatus:1, Status Upgrade (II)
-storagedrawers:upgradeVoid, Void Upgrade
-storagedrawers:upgradeCreative:0, Creative Storage Upgrade
-storagedrawers:upgradeCreative:1, Creative Vending Upgrade
-storagedrawers:upgradeRedstone:0, Redstone Upgrade
-storagedrawers:upgradeRedstone:1, Redstone Max Upgrade
-storagedrawers:upgradeRedstone:2, Redstone Min Upgrade
-storagedrawers:drawerKey, Drawer Key
-storagedrawers:shroudKey, Concealment Key
-storagedrawers:personalKey, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
+randomthings:fertilizedDirt, Fertilized Dirt
+randomthings:fertilizedDirtTilled, Fertilized Dirt
+randomthings:playerInterface, Player Interface
+randomthings:creativePlayerInterface, Creative Player Interface
+randomthings:lapisGlass, Lapis Glass
+randomthings:lapisLamp, Lapis Lamp
+randomthings:dyeingMachine, Dyeing Machine
+randomthings:onlineDetector, Online Detector
+randomthings:chatDetector, Chat Detector
+randomthings:enderBridge, Ender Bridge
+randomthings:prismarineEnderBridge, Prismarine Ender Bridge
+randomthings:enderAnchor, Ender Anchor
+randomthings:beanStalk, Magic Bean Stalk
+randomthings:lesserBeanStalk, Lesser Bean Stalk
+randomthings:beanPod, Bean Pod
+randomthings:beanSprout, Bean Sprout
+randomthings:lightRedirector, Light Redirector
+randomthings:imbuingStation, Imbuing Station
+randomthings:spectreBlock, Spectre Block
+randomthings:specialChest:0, Nature Chest
+randomthings:specialChest:1, Water Chest
+randomthings:analogEmitter, Analog Emitter
+randomthings:fluidDisplay, Fluid Display
+randomthings:customWorkbench, Crafting Table
+randomthings:enderMailbox, Ender Mailbox
+randomthings:pitcherPlant, Pitcher Plant
+randomthings:platform, tile.platform.name
+randomthings:entityDetector, Entity Detector
+randomthings:quartzLamp, Quartz Lamp
+randomthings:quartzGlass, Quartz Glass
+randomthings:potionVaporizer, Potion Vaporizer
+randomthings:voxelProjector, [WIP] Voxel Projector
+randomthings:contactButton, Contact Button
+randomthings:contactLever, Contact Lever
+randomthings:sakanade, Sakanade
+randomthings:rainShield, Rain Shield
+randomthings:blockBreaker, Block Breaker
+randomthings:itemSealer, Item Sealer
+randomthings:superLubricentIce, Superlubricent Ice
+randomthings:itemCorrector, Item Corrector
+randomthings:compressedSlimeBlock, Compressed Slime Block
+randomthings:itemRedirector, Item Redirector
+randomthings:itemRejuvenator, Item Rejuvenator
+randomthings:superLubricentPlatform, Super Lubricent Platform
+randomthings:filteredItemRedirector, Filtered Item Redirector
+randomthings:filteredSuperLubricentPlatform, Filtered Super Lubricent Platform
+randomthings:redstoneObserver, Redstone Observer
+randomthings:biomeRadar, Biome Radar
+randomthings:ironDropper, Iron Dropper
+randomthings:itemProjector, [WIP] Item Projector
+randomthings:igniter, Igniter
+randomthings:blockOfSticks:0, Block of Sticks
+randomthings:blockOfSticks:1, Returning Block of Sticks
+randomthings:blazingFire, tile.blazingFire.name
+randomthings:specialBeanStalk, tile.specialBeanStalk.name
+randomthings:spectrePlank, Spectre Planks
+randomthings:spectreSapling, Spectre Sapling
+randomthings:spectreLog, Spectre Wood
+randomthings:spectreLeaf, Spectre Leaves
+randomthings:itemCollector, Item Collector
+randomthings:advancedItemCollector, Advanced Item Collector
+randomthings:natureCore, Nature Core
+randomthings:biomeStone, tile.biomeStone.name
+randomthings:biomeGlass, Biome Glass
+randomthings:stainedBrick:0, White Stained Bricks
+randomthings:stainedBrick:1, Orange Stained Bricks
+randomthings:stainedBrick:2, Magenta Stained Bricks
+randomthings:stainedBrick:3, Light Blue Stained Bricks
+randomthings:stainedBrick:4, Yellow Stained Bricks
+randomthings:stainedBrick:5, Lime Stained Bricks
+randomthings:stainedBrick:6, Pink Stained Bricks
+randomthings:stainedBrick:7, Gray Stained Bricks
+randomthings:stainedBrick:8, Light Gray Stained Bricks
+randomthings:stainedBrick:9, Cyan Stained Bricks
+randomthings:stainedBrick:10, Purple Stained Bricks
+randomthings:stainedBrick:11, Blue Stained Bricks
+randomthings:stainedBrick:12, Brown Stained Bricks
+randomthings:stainedBrick:13, Green Stained Bricks
+randomthings:stainedBrick:14, Red Stained Bricks
+randomthings:stainedBrick:15, Black Stained Bricks
+randomthings:coloredGrass:0, White Grass
+randomthings:coloredGrass:1, Orange Grass
+randomthings:coloredGrass:2, Magenta Grass
+randomthings:coloredGrass:3, Light Blue Grass
+randomthings:coloredGrass:4, Yellow Grass
+randomthings:coloredGrass:5, Lime Grass
+randomthings:coloredGrass:6, Pink Grass
+randomthings:coloredGrass:7, Gray Grass
+randomthings:coloredGrass:8, Light Gray Grass
+randomthings:coloredGrass:9, Cyan Grass
+randomthings:coloredGrass:10, Purple Grass
+randomthings:coloredGrass:11, Blue Grass
+randomthings:coloredGrass:12, Brown Grass
+randomthings:coloredGrass:13, Green Grass
+randomthings:coloredGrass:14, Red Grass
+randomthings:coloredGrass:15, Black Grass
+randomthings:spectreCore, Spectre Core
+randomthings:rainbowLamp, Rainbow Lamp
+randomthings:basicRedstoneInterface, Basic Redstone Interface
+randomthings:advancedRedstoneInterface, Advanced Redstone Interface
+randomthings:stableEnderpearl, Stable Ender Pearl
+randomthings:biomeCrystal, Biome Crystal
+randomthings:positionFilter, Position Filter
+randomthings:summoningPendulum, Summoning Pendulum
+randomthings:beans:0, Bean
+randomthings:beans:1, Lesser Magic Bean
+randomthings:beans:2, Magic Bean
+randomthings:beanStew, Bean Stew
+randomthings:redstoneTool, Redstone Tool
+randomthings:waterWalkingBoots, Water Walking Boots
+randomthings:dungeonChestGenerator, Loot Generator
+randomthings:lavaCharm, Lava Charm
+randomthings:lavaWader, Lava Waders
+randomthings:obsidianSkull, Obsidian Skull
+randomthings:obsidianSkullRing, Obsidian Skull Ring
+randomthings:obsidianWaterWalkingBoots, Obsidian Water Walking Boots
+randomthings:magicHood, Magic Hood
+randomthings:imbue:0, Fire Imbue
+randomthings:imbue:1, Poison Imbue
+randomthings:imbue:2, Experience Imbue
+randomthings:imbue:3, Wither Imbue
+randomthings:imbue:4, Collapse Imbue
+randomthings:bottleOfAir, Bottle of Air
+randomthings:rezStone, Blood Stone
+randomthings:enderLetter, Ender Letter
+randomthings:entityFilter, Entity Filter
+randomthings:ingredient:0, Sakanade Spores
+randomthings:ingredient:1, Evil Tear
+randomthings:ingredient:2, Ectoplasm
+randomthings:ingredient:3, Spectre Ingot
+randomthings:ingredient:4, Biome Sensor
+randomthings:itemFilter, Item Filter
+randomthings:spectreKey, Spectre Key
+randomthings:redstoneActivator, Redstone Activator
+randomthings:redstoneRemote, Redstone Remote
+randomthings:spectreAnchor, Spectre Anchor
+randomthings:spectreSword, Spectre Sword
+randomthings:goldenCompass, Golden Compass
+randomthings:blazeAndSteel, Blaze and Steel
+randomthings:grassSeeds:0, Grass Seeds
+randomthings:grassSeeds:1, White Grass Seeds
+randomthings:grassSeeds:2, Orange Grass Seeds
+randomthings:grassSeeds:3, Magenta Grass Seeds
+randomthings:grassSeeds:4, Light Grass Seeds
+randomthings:grassSeeds:5, Yellow Grass Seeds
+randomthings:grassSeeds:6, Lime Grass Seeds
+randomthings:grassSeeds:7, Pink Grass Seeds
+randomthings:grassSeeds:8, Gray Grass Seeds
+randomthings:grassSeeds:9, Light Gray Grass Seeds
+randomthings:grassSeeds:10, Cyan Grass Seeds
+randomthings:grassSeeds:11, Purple Grass Seeds
+randomthings:grassSeeds:12, Blue Grass Seeds
+randomthings:grassSeeds:13, Brown Grass Seeds
+randomthings:grassSeeds:14, Green Grass Seeds
+randomthings:grassSeeds:15, Red Grass Seeds
+randomthings:grassSeeds:16, Black Grass Seeds
 thermalfoundation:ore:0, Copper Ore
 thermalfoundation:ore:1, Tin Ore
 thermalfoundation:ore:2, Silver Ore
@@ -6796,6 +6811,175 @@ thermalexpansion:capacitor:4, Flux Capacitor (Resonant)
 thermalexpansion:capacitor:32000, Flux Capacitor (Creative)
 thermalexpansion:florb:0, Invalid Item (Destroy) (Empty§r)
 thermalexpansion:florb:1, Invalid Item (Destroy) (Empty§r)
+redstonearsenal:storage:0, Fluxed Electrum Block
+redstonearsenal:storage:1, Flux Crystal Block
+redstonearsenal:material:0, Fluxed Electrum Blend
+redstonearsenal:material:32, Fluxed Electrum Ingot
+redstonearsenal:material:64, Fluxed Electrum Nugget
+redstonearsenal:material:96, Fluxed Electrum Gear
+redstonearsenal:material:128, Fluxed Electrum Plate
+redstonearsenal:material:160, Flux Crystal
+redstonearsenal:material:192, Obsidian Rod
+redstonearsenal:material:193, Flux-Infused Obsidian Rod
+redstonearsenal:material:224, Fluxed Armor Plating
+redstonearsenal:armor.helmet_flux, Flux-Infused Helm
+redstonearsenal:armor.plate_flux, Flux-Infused Chestplate
+redstonearsenal:armor.legs_flux, Flux-Infused Leggings
+redstonearsenal:armor.boots_flux, Flux-Infused Boots
+redstonearsenal:tool.wrench_flux, Flux-Infused OmniWrench
+redstonearsenal:tool.battlewrench_flux, Flux-Infused BattleWrench
+redstonearsenal:tool.sword_flux, Flux-Infused Sword
+redstonearsenal:tool.shovel_flux, Flux-Infused Shovel
+redstonearsenal:tool.pickaxe_flux, Flux-Infused Pickaxe
+redstonearsenal:tool.axe_flux, Flux-Infused Axe
+redstonearsenal:tool.bow_flux, Flux-Infused Bow
+redstonearsenal:tool.fishing_rod_flux, Flux-Infused Fishing Rod
+redstonearsenal:tool.sickle_flux, Flux-Infused Sickle
+redstonearsenal:tool.hammer_flux, Flux-Infused Hammer
+redstonearsenal:tool.shield_flux, Flux-Infused Shield
+simplyjetpacks:itemJetpack:0, Creative Jetpack
+simplyjetpacks:itemJetpack:1, Tuberous Jetpack
+simplyjetpacks:itemJetpack:2, Conductive Iron Jetpack
+simplyjetpacks:itemJetpack:3, Electrical Steel Jetpack
+simplyjetpacks:itemJetpack:4, Energetic Jetpack
+simplyjetpacks:itemJetpack:5, Vibrant Jetpack
+simplyjetpacks:itemJetpack:6, Conductive Iron Jetpack (Armored)
+simplyjetpacks:itemJetpack:7, Electrical Steel Jetpack (Armored)
+simplyjetpacks:itemJetpack:8, Energetic Jetpack (Armored)
+simplyjetpacks:itemJetpack:9, Vibrant Jetpack (Armored)
+simplyjetpacks:itemJetpack:10, Dark Soularium JetPlate
+simplyjetpacks:itemJetpack:11, Leadstone Jetpack
+simplyjetpacks:itemJetpack:12, Hardened Jetpack
+simplyjetpacks:itemJetpack:13, Reinforced Jetpack
+simplyjetpacks:itemJetpack:14, Resonant Jetpack
+simplyjetpacks:itemJetpack:15, Flux-Infused JetPlate
+simplyjetpacks:metaItem:0, Particle Customizer (Default)
+simplyjetpacks:metaItem:1, Particle Customizer (None)
+simplyjetpacks:metaItem:2, Particle Customizer (Smoke Only)
+simplyjetpacks:metaItem:3, Particle Customizer (Rainbow Smoke)
+simplyjetpacks:metaItem:4, Iron Thruster
+simplyjetpacks:metaItem:5, Gold Thruster
+simplyjetpacks:metaItem:6, Diamond Thruster
+simplyjetpacks:metaItem:7, Leather Strap
+simplyjetpacks:metaItemMods:0, Dark Soularium Ingot
+simplyjetpacks:metaItemMods:1, Reinforced Glider Wing
+simplyjetpacks:metaItemMods:2, Flight Control Unit (Empty)
+simplyjetpacks:metaItemMods:3, Flight Control Unit
+simplyjetpacks:metaItemMods:4, Conductive Iron Thruster
+simplyjetpacks:metaItemMods:5, Electrical Steel Thruster
+simplyjetpacks:metaItemMods:6, Energetic Thruster
+simplyjetpacks:metaItemMods:7, Vibrant Thruster
+simplyjetpacks:metaItemMods:8, Dark Soularium Thruster
+simplyjetpacks:metaItemMods:9, Silicon Armor Plating
+simplyjetpacks:metaItemMods:10, Conductive Iron Armor Plating
+simplyjetpacks:metaItemMods:11, Electrical Steel Armor Plating
+simplyjetpacks:metaItemMods:12, Dark Steel Armor Plating
+simplyjetpacks:metaItemMods:13, Leadstone Thruster
+simplyjetpacks:metaItemMods:14, Hardened Thruster
+simplyjetpacks:metaItemMods:15, Reinforced Thruster
+simplyjetpacks:metaItemMods:16, Resonant Thruster
+simplyjetpacks:metaItemMods:17, Fluxed Thruster
+simplyjetpacks:itemFluxpack:0, Creative Flux Pack
+simplyjetpacks:itemFluxpack:1, Basic Capacitor Pack
+simplyjetpacks:itemFluxpack:2, Capacitor Pack
+simplyjetpacks:itemFluxpack:3, Vibrant Capacitor Pack
+simplyjetpacks:itemFluxpack:4, Capacitor Pack (Armored)
+simplyjetpacks:itemFluxpack:5, Vibrant Capacitor Pack (Armored)
+solarfluxreborn:solar0, Solar Panel I
+solarfluxreborn:solar1, Solar Panel II
+solarfluxreborn:solar2, Solar Panel III
+solarfluxreborn:solar3, Solar Panel IV
+solarfluxreborn:solar4, Solar Panel V
+solarfluxreborn:solar5, Solar Panel VI
+solarfluxreborn:solar6, Solar Panel VII
+solarfluxreborn:solar7, Solar Panel VIII
+solarfluxreborn:solardraconic, Draconic Solar Panel
+solarfluxreborn:solarchaotic, Chaotic Solar Panel
+solarfluxreborn:wire_1, First Cable
+solarfluxreborn:wire_2, Second Cable
+solarfluxreborn:wire_3, The Last Cable
+solarfluxreborn:mirror, Mirror
+solarfluxreborn:solarCell1, Photovoltaic cell I
+solarfluxreborn:solarCell2, Photovoltaic cell II
+solarfluxreborn:solarCell3, Photovoltaic cell III
+solarfluxreborn:solarCell4, Photovoltaic cell IV
+solarfluxreborn:upgradeEfficiency, Efficiency upgrade
+solarfluxreborn:upgradeLowLight, Low light upgrade
+solarfluxreborn:upgradeTraversal, Machine traversal upgrade
+solarfluxreborn:upgradeTransferRate, Transfer rate upgrade
+solarfluxreborn:upgradeCapacity, Capacity upgrade
+solarfluxreborn:upgradeFurnace, Furnace upgrade
+solarfluxreborn:upgradeBlank, Blank upgrade
+storagedrawers:basicDrawers:0, Basic Drawer
+storagedrawers:basicDrawers:0, Basic Drawer
+storagedrawers:basicDrawers:0, Basic Drawer
+storagedrawers:basicDrawers:0, Basic Drawer
+storagedrawers:basicDrawers:0, Basic Drawer
+storagedrawers:basicDrawers:0, Basic Drawer
+storagedrawers:basicDrawers:1, Basic Drawers 1x2
+storagedrawers:basicDrawers:1, Basic Drawers 1x2
+storagedrawers:basicDrawers:1, Basic Drawers 1x2
+storagedrawers:basicDrawers:1, Basic Drawers 1x2
+storagedrawers:basicDrawers:1, Basic Drawers 1x2
+storagedrawers:basicDrawers:1, Basic Drawers 1x2
+storagedrawers:basicDrawers:2, Basic Drawers 2x2
+storagedrawers:basicDrawers:2, Basic Drawers 2x2
+storagedrawers:basicDrawers:2, Basic Drawers 2x2
+storagedrawers:basicDrawers:2, Basic Drawers 2x2
+storagedrawers:basicDrawers:2, Basic Drawers 2x2
+storagedrawers:basicDrawers:2, Basic Drawers 2x2
+storagedrawers:basicDrawers:3, Half Drawers 1x2
+storagedrawers:basicDrawers:3, Half Drawers 1x2
+storagedrawers:basicDrawers:3, Half Drawers 1x2
+storagedrawers:basicDrawers:3, Half Drawers 1x2
+storagedrawers:basicDrawers:3, Half Drawers 1x2
+storagedrawers:basicDrawers:3, Half Drawers 1x2
+storagedrawers:basicDrawers:4, Half Drawers 2x2
+storagedrawers:basicDrawers:4, Half Drawers 2x2
+storagedrawers:basicDrawers:4, Half Drawers 2x2
+storagedrawers:basicDrawers:4, Half Drawers 2x2
+storagedrawers:basicDrawers:4, Half Drawers 2x2
+storagedrawers:basicDrawers:4, Half Drawers 2x2
+storagedrawers:compDrawers, Compacting Drawer
+storagedrawers:controller, Drawer Controller
+storagedrawers:controllerSlave, Controller Slave
+storagedrawers:trim:0, Oak Trim
+storagedrawers:trim:1, Spruce Trim
+storagedrawers:trim:2, Birch Trim
+storagedrawers:trim:3, Jungle Trim
+storagedrawers:trim:4, Acacia Trim
+storagedrawers:trim:5, Dark Oak Trim
+storagedrawers:framingTable, Framing Table
+storagedrawers:customDrawers:0, Framed Drawer
+storagedrawers:customDrawers:1, Framed Drawers 1x2
+storagedrawers:customDrawers:2, Framed Drawers 2x2
+storagedrawers:customDrawers:3, Framed Half Drawers 1x2
+storagedrawers:customDrawers:4, Framed Half Drawers 2x2
+storagedrawers:customTrim, Framed Trim
+storagedrawers:keybutton:0, Drawer Key Button
+storagedrawers:keybutton:1, Concealment Key Button
+storagedrawers:keybutton:2, Personal Key Button
+storagedrawers:keybutton:3, Quantify Key Button
+storagedrawers:upgradeTemplate, Upgrade Template
+storagedrawers:upgradeStorage:0, Storage Upgrade (I)
+storagedrawers:upgradeStorage:1, Storage Upgrade (II)
+storagedrawers:upgradeStorage:2, Storage Upgrade (III)
+storagedrawers:upgradeStorage:3, Storage Upgrade (IV)
+storagedrawers:upgradeStorage:4, Storage Upgrade (V)
+storagedrawers:upgradeOneStack, Storage Downgrade
+storagedrawers:upgradeStatus:0, Status Upgrade (I)
+storagedrawers:upgradeStatus:1, Status Upgrade (II)
+storagedrawers:upgradeVoid, Void Upgrade
+storagedrawers:upgradeCreative:0, Creative Storage Upgrade
+storagedrawers:upgradeCreative:1, Creative Vending Upgrade
+storagedrawers:upgradeRedstone:0, Redstone Upgrade
+storagedrawers:upgradeRedstone:1, Redstone Max Upgrade
+storagedrawers:upgradeRedstone:2, Redstone Min Upgrade
+storagedrawers:drawerKey, Drawer Key
+storagedrawers:shroudKey, Concealment Key
+storagedrawers:personalKey, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 thermaldynamics:ThermalDynamics_0:0, Leadstone Fluxduct
 thermaldynamics:ThermalDynamics_0:1, Hardened Fluxduct
 thermaldynamics:ThermalDynamics_0:2, Redstone Energy Fluxduct
@@ -7497,12 +7681,63 @@ thermaldynamics:cover:0, Darkstone Lamp Cover
 thermaldynamics:cover:0, Decorative Darkstone Cover
 thermaldynamics:cover:0, Darkstone Tile Cover
 thermaldynamics:cover:0, Industrial Grade Graphite Ore Cover
-thermaldynamics:cover:0, Oak Trim Cover
-thermaldynamics:cover:0, Spruce Trim Cover
-thermaldynamics:cover:0, Birch Trim Cover
-thermaldynamics:cover:0, Jungle Trim Cover
-thermaldynamics:cover:0, Acacia Trim Cover
-thermaldynamics:cover:0, Dark Oak Trim Cover
+thermaldynamics:cover:0, Fertilized Dirt Cover
+thermaldynamics:cover:0, Fertilized Dirt Cover
+thermaldynamics:cover:0, Lapis Glass Cover
+thermaldynamics:cover:0, Lapis Lamp Cover
+thermaldynamics:cover:0, Dyeing Machine Cover
+thermaldynamics:cover:0, Bean Pod Cover
+thermaldynamics:cover:0, Spectre Block Cover
+thermaldynamics:cover:0, Quartz Lamp Cover
+thermaldynamics:cover:0, Quartz Glass Cover
+thermaldynamics:cover:0, Contact Button Cover
+thermaldynamics:cover:0, Contact Lever Cover
+thermaldynamics:cover:0, Superlubricent Ice Cover
+thermaldynamics:cover:0, Igniter Cover
+thermaldynamics:cover:0, Block of Sticks Cover
+thermaldynamics:cover:0, Returning Block of Sticks Cover
+thermaldynamics:cover:0, Spectre Planks Cover
+thermaldynamics:cover:0, Spectre Wood Cover
+thermaldynamics:cover:0, Biome Cobblestone Cover
+thermaldynamics:cover:0, Biome Stone Cover
+thermaldynamics:cover:0, Biome Stone Bricks Cover
+thermaldynamics:cover:0, Cracked Biome Stone Bricks Cover
+thermaldynamics:cover:0, Chiseled Biome Stone Bricks Cover
+thermaldynamics:cover:0, Biome Glass Cover
+thermaldynamics:cover:0, White Stained Bricks Cover
+thermaldynamics:cover:0, Orange Stained Bricks Cover
+thermaldynamics:cover:0, Magenta Stained Bricks Cover
+thermaldynamics:cover:0, Light Blue Stained Bricks Cover
+thermaldynamics:cover:0, Yellow Stained Bricks Cover
+thermaldynamics:cover:0, Lime Stained Bricks Cover
+thermaldynamics:cover:0, Pink Stained Bricks Cover
+thermaldynamics:cover:0, Gray Stained Bricks Cover
+thermaldynamics:cover:0, Light Gray Stained Bricks Cover
+thermaldynamics:cover:0, Cyan Stained Bricks Cover
+thermaldynamics:cover:0, Purple Stained Bricks Cover
+thermaldynamics:cover:0, Blue Stained Bricks Cover
+thermaldynamics:cover:0, Brown Stained Bricks Cover
+thermaldynamics:cover:0, Green Stained Bricks Cover
+thermaldynamics:cover:0, Red Stained Bricks Cover
+thermaldynamics:cover:0, Black Stained Bricks Cover
+thermaldynamics:cover:0, White Grass Cover
+thermaldynamics:cover:0, Orange Grass Cover
+thermaldynamics:cover:0, Magenta Grass Cover
+thermaldynamics:cover:0, Light Blue Grass Cover
+thermaldynamics:cover:0, Yellow Grass Cover
+thermaldynamics:cover:0, Lime Grass Cover
+thermaldynamics:cover:0, Pink Grass Cover
+thermaldynamics:cover:0, Gray Grass Cover
+thermaldynamics:cover:0, Light Gray Grass Cover
+thermaldynamics:cover:0, Cyan Grass Cover
+thermaldynamics:cover:0, Purple Grass Cover
+thermaldynamics:cover:0, Blue Grass Cover
+thermaldynamics:cover:0, Brown Grass Cover
+thermaldynamics:cover:0, Green Grass Cover
+thermaldynamics:cover:0, Red Grass Cover
+thermaldynamics:cover:0, Black Grass Cover
+thermaldynamics:cover:0, Spectre Core Cover
+thermaldynamics:cover:0, Rainbow Lamp Cover
 thermaldynamics:cover:0, Copper Ore Cover
 thermaldynamics:cover:0, Tin Ore Cover
 thermaldynamics:cover:0, Silver Ore Cover
@@ -7550,6 +7785,14 @@ thermaldynamics:cover:0, Light Blue Rockwool Cover
 thermaldynamics:cover:0, Magenta Rockwool Cover
 thermaldynamics:cover:0, Orange Rockwool Cover
 thermaldynamics:cover:0, White Rockwool Cover
+thermaldynamics:cover:0, Fluxed Electrum Block Cover
+thermaldynamics:cover:0, Flux Crystal Block Cover
+thermaldynamics:cover:0, Oak Trim Cover
+thermaldynamics:cover:0, Spruce Trim Cover
+thermaldynamics:cover:0, Birch Trim Cover
+thermaldynamics:cover:0, Jungle Trim Cover
+thermaldynamics:cover:0, Acacia Trim Cover
+thermaldynamics:cover:0, Dark Oak Trim Cover
 translocator:translocator:0, Item Translocator
 translocator:translocator:1, Liquid Translocator
 translocator:diamondNugget, Diamond Nugget
