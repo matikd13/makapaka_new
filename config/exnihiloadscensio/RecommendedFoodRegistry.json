@@ -7838,6 +7838,19 @@
       "meta": 0
     }
   },
+  "extrautils2:magicapple:0": {
+    "value": 0.1,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:gooseberryitem:0": {
     "value": 0.025,
     "color": {
