@@ -2033,6 +2033,9 @@ appliedenergistics2:facade:0, Cable Facade - Sky Stone Brick
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Small Brick
 appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Neutronium Block
+appliedenergistics2:facade:0, Cable Facade - Infinity Block
+appliedenergistics2:facade:0, Cable Facade - Crystal Matrix
 appliedenergistics2:facade:0, Cable Facade - Limestone
 appliedenergistics2:facade:0, Cable Facade - Crag Rock
 appliedenergistics2:facade:0, Cable Facade - Dried Sand
@@ -4665,10 +4668,48 @@ architecturecraft:largePulley, Large Pulley
 architecturecraft:chisel, Architect's Chisel
 architecturecraft:hammer, Architect's Hammer
 architecturecraft:cladding:0, Cladding
-avaritia:matrix_ingot, Crystal Matrix Ingot
-avaritia:double_craft, Compressed Crafting Table
-avaritia:triple_craft, Double Compressed Crafting Table
+avaritia:resource:0, Diamond Lattice
+avaritia:resource:1, Crystal Matrix Ingot
+avaritia:resource:2, Pile of Neutrons
+avaritia:resource:3, Neutronium Nugget
+avaritia:resource:4, Neutronium Ingot
+avaritia:resource:5, Infinity Catalyst
+avaritia:resource:6, Infinity Ingot
+avaritia:resource:7, Record Fragment
+avaritia:singularity:0, Iron Singularity
+avaritia:singularity:1, Golden Singularity
+avaritia:singularity:2, Lapis Singularity
+avaritia:singularity:3, Redstone Singularity
+avaritia:singularity:4, Nether Quartz Singularity
+avaritia:singularity:5, Copper Singularity
+avaritia:singularity:6, Tin Singularity
+avaritia:singularity:7, Lead Singularity
+avaritia:singularity:8, Silver Singularity
+avaritia:singularity:9, Nickel Singularity
+avaritia:singularity:10, Diamond Singularity
+avaritia:singularity:11, Emerald Singularity
+avaritia:infinity_sword, Sword of the Cosmos
+avaritia:infinity_bow, Longbow of the Heavens
+avaritia:infinity_pickaxe, World Breaker
+avaritia:infinity_shovel, Planet Eater
+avaritia:infinity_axe, Nature's Ruin
+avaritia:infinity_helmet, Infinity Helmet
+avaritia:infinity_chestplate, Infinity Breastplate
+avaritia:infinity_pants, Infinity Leggings
+avaritia:infinity_boots, Infinity Boots
+avaritia:skullfire_sword, Skullfire Sword
+avaritia:endest_pearl, Endest Pearl
+avaritia:ultimate_stew, Ultimate Stew
+avaritia:cosmic_meatballs, Cosmic Meatballs
+avaritia:matter_cluster, Matter Cluster
+avaritia:compressed_workbench, Compressed Crafting Table
+avaritia:very_compressed_workbench, Double Compressed Crafting Table
 avaritia:dire_crafting, Dire Crafting Table
+avaritia:block_resource:0, Neutronium Block
+avaritia:block_resource:1, Infinity Block
+avaritia:block_resource:2, Crystal Matrix
+avaritia:neutron_collector, Neutron Collector
+avaritia:neutronium_compressor, Neutronium Compressor
 biomesoplenty:grass:0, Spectral Moss
 biomesoplenty:grass:1, Overgrown Stone
 biomesoplenty:grass:2, Loamy Grass Block
@@ -7839,6 +7880,9 @@ chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Small Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Tiny TNT
 chiselsandbits:block_bit:0, Chiseled Bit - Compressed Crafting Table
 chiselsandbits:block_bit:0, Chiseled Bit - Double Compressed Crafting Table
+chiselsandbits:block_bit:0, Chiseled Bit - Neutronium Block
+chiselsandbits:block_bit:0, Chiseled Bit - Infinity Block
+chiselsandbits:block_bit:0, Chiseled Bit - Crystal Matrix
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Limestone
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Siltstone
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Shale
@@ -12706,32 +12750,32 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:shard:0, Treated Wood Shard
 tconstruct:shard:0, Constantan Shard
 tconstruct:shard:0, Enderium Shard
@@ -14153,60 +14197,60 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -15734,6 +15778,9 @@ thermaldynamics:cover:0, Sky Stone Small Brick Cover
 thermaldynamics:cover:0, Tiny TNT Cover
 thermaldynamics:cover:0, Compressed Crafting Table Cover
 thermaldynamics:cover:0, Double Compressed Crafting Table Cover
+thermaldynamics:cover:0, Neutronium Block Cover
+thermaldynamics:cover:0, Infinity Block Cover
+thermaldynamics:cover:0, Crystal Matrix Cover
 thermaldynamics:cover:0, Spectral Moss Cover
 thermaldynamics:cover:0, Overgrown Stone Cover
 thermaldynamics:cover:0, Loamy Grass Block Cover
