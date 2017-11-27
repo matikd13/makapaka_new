@@ -1629,6 +1629,7 @@ ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
 ic2:cable:0, Copper Cable
 ic2:cable:0, Insulated Copper Cable
 ic2:cable:1, Glass Fibre Cable
@@ -2031,6 +2032,8 @@ appliedenergistics2:facade:0, Cable Facade - Sky Stone
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Block
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Brick
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Small Brick
+appliedenergistics2:facade:0, Cable Facade - Portal Frame
+appliedenergistics2:facade:0, Cable Facade - Sticky Ore
 appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Neutronium Block
@@ -2050,6 +2053,91 @@ appliedenergistics2:facade:0, Cable Facade - Jelled Poison
 appliedenergistics2:facade:0, Cable Facade - Bamboo Thatching
 appliedenergistics2:facade:0, Cable Facade - Mud Bricks
 appliedenergistics2:facade:0, Cable Facade - Sacred Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Blank Rune
+appliedenergistics2:facade:0, Cable Facade - Speed Rune
+appliedenergistics2:facade:0, Cable Facade - Efficiency Rune
+appliedenergistics2:facade:0, Cable Facade - Rune of Sacrifice
+appliedenergistics2:facade:0, Cable Facade - Rune of Self Sacrifice
+appliedenergistics2:facade:0, Cable Facade - Displacement Rune
+appliedenergistics2:facade:0, Cable Facade - Rune of Capacity
+appliedenergistics2:facade:0, Cable Facade - Rune of Augmented Capacity
+appliedenergistics2:facade:0, Cable Facade - Rune of the Orb
+appliedenergistics2:facade:0, Cable Facade - Acceleration Rune
+appliedenergistics2:facade:0, Cable Facade - Charging Rune
+appliedenergistics2:facade:0, Cable Facade - Ritual Stone
+appliedenergistics2:facade:0, Cable Facade - Ritual Stone of Water
+appliedenergistics2:facade:0, Cable Facade - Ritual Stone of Fire
+appliedenergistics2:facade:0, Cable Facade - Ritual Stone of Earth
+appliedenergistics2:facade:0, Cable Facade - Ritual Stone of Air
+appliedenergistics2:facade:0, Cable Facade - Ritual Stone of Dusk
+appliedenergistics2:facade:0, Cable Facade - Ritual Stone of Dawn
+appliedenergistics2:facade:0, Cable Facade - Crystal Cluster
+appliedenergistics2:facade:0, Cable Facade - Crystal Cluster Brick
+appliedenergistics2:facade:0, Cable Facade - Large Bloodstone Brick
+appliedenergistics2:facade:0, Cable Facade - Bloodstone Brick
+appliedenergistics2:facade:0, Cable Facade - Wooden Path
+appliedenergistics2:facade:0, Cable Facade - Tiled Wooden Path
+appliedenergistics2:facade:0, Cable Facade - Stone Brick Path
+appliedenergistics2:facade:0, Cable Facade - Tiled Stone Path
+appliedenergistics2:facade:0, Cable Facade - Worn Stone Brick Path
+appliedenergistics2:facade:0, Cable Facade - Tiled Worn Stone Path
+appliedenergistics2:facade:0, Cable Facade - Obsidian Brick Path
+appliedenergistics2:facade:0, Cable Facade - Tiled Obsidian Path
+appliedenergistics2:facade:0, Cable Facade - Raw Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Corrosive Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Destructive Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Vengeful Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Steadfast Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Small Raw Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Small Corrosive Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Small Destructive Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Small Vengeful Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Small Steadfast Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Raw Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Corrosive Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Destructive Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Vengeful Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Steadfast Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Accented Raw Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Accented Corrosive Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Accented Destructive Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Accented Vengeful Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Accented Steadfast Stone Tiles
+appliedenergistics2:facade:0, Cable Facade - Raw Stone
+appliedenergistics2:facade:0, Cable Facade - Corrosive Stone
+appliedenergistics2:facade:0, Cable Facade - Destructive Stone
+appliedenergistics2:facade:0, Cable Facade - Vengeful Stone
+appliedenergistics2:facade:0, Cable Facade - Steadfast Stone
+appliedenergistics2:facade:0, Cable Facade - Polished Raw Stone
+appliedenergistics2:facade:0, Cable Facade - Polished Corrosive Stone
+appliedenergistics2:facade:0, Cable Facade - Polished Destructive Stone
+appliedenergistics2:facade:0, Cable Facade - Polished Vengeful Stone
+appliedenergistics2:facade:0, Cable Facade - Polished Steadfast Stone
+appliedenergistics2:facade:0, Cable Facade - Raw Demon Alloy
+appliedenergistics2:facade:0, Cable Facade - Corrosive Demon Alloy
+appliedenergistics2:facade:0, Cable Facade - Destructive Demon Alloy
+appliedenergistics2:facade:0, Cable Facade - Vengeful Demon Alloy
+appliedenergistics2:facade:0, Cable Facade - Steadfast Demon Alloy
+appliedenergistics2:facade:0, Cable Facade - Raw Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Corrosive Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Destructive Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Vengeful Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Steadfast Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Accented Raw Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Accented Corrosive Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Accented Destructive Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Accented Vengeful Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Accented Steadfast Stone Pillar
+appliedenergistics2:facade:0, Cable Facade - Raw Stone Pillar Cap
+appliedenergistics2:facade:0, Cable Facade - Corrosive Stone Pillar Cap
+appliedenergistics2:facade:0, Cable Facade - Destructive Stone Pillar Cap
+appliedenergistics2:facade:0, Cable Facade - Vengeful Stone Pillar Cap
+appliedenergistics2:facade:0, Cable Facade - Steadfast Stone Pillar Cap
+appliedenergistics2:facade:0, Cable Facade - Raw Demon Eye
+appliedenergistics2:facade:0, Cable Facade - Corrosive Demon Eye
+appliedenergistics2:facade:0, Cable Facade - Destructive Demon Eye
+appliedenergistics2:facade:0, Cable Facade - Vengeful Demon Eye
+appliedenergistics2:facade:0, Cable Facade - Steadfast Demon Eye
 appliedenergistics2:facade:0, Cable Facade - Reinforced Stone
 appliedenergistics2:facade:0, Cable Facade - Reinforced Stone Brick
 appliedenergistics2:facade:0, Cable Facade - Reinforced Dirt
@@ -4053,6 +4141,22 @@ appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Wool
 appliedenergistics2:facade:0, Cable Facade - Wool
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
+appliedenergistics2:facade:0, Cable Facade - Placeholder
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Silver Ore
@@ -4668,6 +4772,10 @@ architecturecraft:largePulley, Large Pulley
 architecturecraft:chisel, Architect's Chisel
 architecturecraft:hammer, Architect's Hammer
 architecturecraft:cladding:0, Cladding
+aroma1997sdimension:portalFrame, Portal Frame
+aroma1997sdimension:stickyOre, Sticky Ore
+aroma1997sdimension:portalIgniter, Mining Multitool
+aroma1997sdimension:dimensionChanger, DimensionChanger
 avaritia:resource:0, Diamond Lattice
 avaritia:resource:1, Crystal Matrix Ingot
 avaritia:resource:2, Pile of Neutrons
@@ -5098,6 +5206,341 @@ biomesoplenty:spawn_egg:2, Spawn Wasp
 biomesoplenty:spawn_egg:3, Spawn Pixie
 biomesoplenty:spawn_egg:4, Spawn Snail
 biomesoplenty:spawn_egg:5, Spawn Butterfly
+guideapi:ItemGuideBook:0, Sanguine Scientiem
+bloodmagic:BlockLifeEssence, Life Essence
+bloodmagic:BlockAltar, Blood Altar
+bloodmagic:BlockBloodRune:0, Blank Rune
+bloodmagic:BlockBloodRune:1, Speed Rune
+bloodmagic:BlockBloodRune:2, Efficiency Rune
+bloodmagic:BlockBloodRune:3, Rune of Sacrifice
+bloodmagic:BlockBloodRune:4, Rune of Self Sacrifice
+bloodmagic:BlockBloodRune:5, Displacement Rune
+bloodmagic:BlockBloodRune:6, Rune of Capacity
+bloodmagic:BlockBloodRune:7, Rune of Augmented Capacity
+bloodmagic:BlockBloodRune:8, Rune of the Orb
+bloodmagic:BlockBloodRune:9, Acceleration Rune
+bloodmagic:BlockBloodRune:10, Charging Rune
+bloodmagic:BlockRitualController:0, Master Ritual Stone
+bloodmagic:BlockRitualController:1, Imperfect Ritual Stone
+bloodmagic:BlockRitualController:2, Inverted Master Ritual Stone
+bloodmagic:BlockRitualStone:0, Ritual Stone
+bloodmagic:BlockRitualStone:1, Ritual Stone of Water
+bloodmagic:BlockRitualStone:2, Ritual Stone of Fire
+bloodmagic:BlockRitualStone:3, Ritual Stone of Earth
+bloodmagic:BlockRitualStone:4, Ritual Stone of Air
+bloodmagic:BlockRitualStone:5, Ritual Stone of Dusk
+bloodmagic:BlockRitualStone:6, Ritual Stone of Dawn
+bloodmagic:BlockBloodLight, Blood Light
+bloodmagic:BlockTeleposer, Teleposer
+bloodmagic:BlockAlchemyArray, &r&fAlchemy Array
+bloodmagic:BlockSpectral, tile.BloodMagic.spectral.name
+bloodmagic:BlockPhantom, Phantom Block
+bloodmagic:BlockSoulForge, Hellfire Forge
+bloodmagic:BlockCrystal:0, Crystal Cluster
+bloodmagic:BlockCrystal:1, Crystal Cluster Brick
+bloodmagic:BlockBloodStoneBrick:0, Large Bloodstone Brick
+bloodmagic:BlockBloodStoneBrick:1, Bloodstone Brick
+bloodmagic:BlockMasterRoutingNode, Master Routing Node
+bloodmagic:BlockInputRoutingNode, Input Routing Node
+bloodmagic:BlockOutputRoutingNode, Output Routing Node
+bloodmagic:BlockItemRoutingNode, Routing Node
+bloodmagic:BlockIncenseAltar, Incense Altar
+bloodmagic:BlockPath:0, Wooden Path
+bloodmagic:BlockPath:1, Tiled Wooden Path
+bloodmagic:BlockPath:2, Stone Brick Path
+bloodmagic:BlockPath:3, Tiled Stone Path
+bloodmagic:BlockPath:4, Worn Stone Brick Path
+bloodmagic:BlockPath:5, Tiled Worn Stone Path
+bloodmagic:BlockPath:6, Obsidian Brick Path
+bloodmagic:BlockPath:7, Tiled Obsidian Path
+bloodmagic:BlockDemonCrucible, Demon Crucible
+bloodmagic:BlockDemonPylon, Demon Pylon
+bloodmagic:BlockDemonCrystallizer, Demon Crystallizer
+bloodmagic:BlockDemonCrystal:0, Demon Will Crystal Cluster
+bloodmagic:BlockDemonCrystal:1, Corrosive Will Crystal Cluster
+bloodmagic:BlockDemonCrystal:2, Destructive Will Crystal Cluster
+bloodmagic:BlockDemonCrystal:3, Vengeful Will Crystal Cluster
+bloodmagic:BlockDemonCrystal:4, Steadfast Will Crystal Cluster
+bloodmagic:BlockAlchemyTable, Alchemy Table
+bloodmagic:BlockDimensionalPortal, Dimensional Portal
+bloodmagic:BlockBloodTank:0, Blood Tank Tier 1
+bloodmagic:BlockBloodTank:1, Blood Tank Tier 2
+bloodmagic:BlockBloodTank:2, Blood Tank Tier 3
+bloodmagic:BlockBloodTank:3, Blood Tank Tier 4
+bloodmagic:BlockBloodTank:4, Blood Tank Tier 5
+bloodmagic:BlockBloodTank:5, Blood Tank Tier 6
+bloodmagic:BlockBloodTank:6, Blood Tank Tier 7
+bloodmagic:BlockBloodTank:7, Blood Tank Tier 8
+bloodmagic:BlockBloodTank:8, Blood Tank Tier 9
+bloodmagic:BlockBloodTank:9, Blood Tank Tier 10
+bloodmagic:BlockBloodTank:10, Blood Tank Tier 11
+bloodmagic:BlockBloodTank:11, Blood Tank Tier 12
+bloodmagic:BlockBloodTank:12, Blood Tank Tier 13
+bloodmagic:BlockBloodTank:13, Blood Tank Tier 14
+bloodmagic:BlockBloodTank:14, Blood Tank Tier 15
+bloodmagic:BlockBloodTank:15, Blood Tank Tier 16
+bloodmagic:BlockMimic:0, Ethereal Opaque Mimic Block
+bloodmagic:BlockMimic:1, Opaque Mimic Block
+bloodmagic:BlockMimic:2, Clear Mimic Block
+bloodmagic:BlockMimic:3, Lighted Mimic Block
+bloodmagic:BlockMimic:4, Sentient Mimic Block
+bloodmagic:BlockDemonBricks1:0, Raw Stone Bricks
+bloodmagic:BlockDemonBricks1:1, Corrosive Stone Bricks
+bloodmagic:BlockDemonBricks1:2, Destructive Stone Bricks
+bloodmagic:BlockDemonBricks1:3, Vengeful Stone Bricks
+bloodmagic:BlockDemonBricks1:4, Steadfast Stone Bricks
+bloodmagic:BlockDemonBricks2:0, Small Raw Stone Bricks
+bloodmagic:BlockDemonBricks2:1, Small Corrosive Stone Bricks
+bloodmagic:BlockDemonBricks2:2, Small Destructive Stone Bricks
+bloodmagic:BlockDemonBricks2:3, Small Vengeful Stone Bricks
+bloodmagic:BlockDemonBricks2:4, Small Steadfast Stone Bricks
+bloodmagic:BlockDemonBricks2:5, Raw Stone Tiles
+bloodmagic:BlockDemonBricks2:6, Corrosive Stone Tiles
+bloodmagic:BlockDemonBricks2:7, Destructive Stone Tiles
+bloodmagic:BlockDemonBricks2:8, Vengeful Stone Tiles
+bloodmagic:BlockDemonBricks2:9, Steadfast Stone Tiles
+bloodmagic:BlockDemonBricks2:10, Accented Raw Stone Tiles
+bloodmagic:BlockDemonBricks2:11, Accented Corrosive Stone Tiles
+bloodmagic:BlockDemonBricks2:12, Accented Destructive Stone Tiles
+bloodmagic:BlockDemonBricks2:13, Accented Vengeful Stone Tiles
+bloodmagic:BlockDemonBricks2:14, Accented Steadfast Stone Tiles
+bloodmagic:BlockDemonExtra:0, Raw Stone
+bloodmagic:BlockDemonExtra:1, Corrosive Stone
+bloodmagic:BlockDemonExtra:2, Destructive Stone
+bloodmagic:BlockDemonExtra:3, Vengeful Stone
+bloodmagic:BlockDemonExtra:4, Steadfast Stone
+bloodmagic:BlockDemonExtra:5, Polished Raw Stone
+bloodmagic:BlockDemonExtra:6, Polished Corrosive Stone
+bloodmagic:BlockDemonExtra:7, Polished Destructive Stone
+bloodmagic:BlockDemonExtra:8, Polished Vengeful Stone
+bloodmagic:BlockDemonExtra:9, Polished Steadfast Stone
+bloodmagic:BlockDemonExtra:10, Raw Demon Alloy
+bloodmagic:BlockDemonExtra:11, Corrosive Demon Alloy
+bloodmagic:BlockDemonExtra:12, Destructive Demon Alloy
+bloodmagic:BlockDemonExtra:13, Vengeful Demon Alloy
+bloodmagic:BlockDemonExtra:14, Steadfast Demon Alloy
+bloodmagic:BlockPillar1:0, Raw Stone Pillar
+bloodmagic:BlockPillar1:1, Corrosive Stone Pillar
+bloodmagic:BlockPillar1:2, Destructive Stone Pillar
+bloodmagic:BlockPillar1:3, Vengeful Stone Pillar
+bloodmagic:BlockPillar1:4, Steadfast Stone Pillar
+bloodmagic:BlockPillar2:0, Accented Raw Stone Pillar
+bloodmagic:BlockPillar2:1, Accented Corrosive Stone Pillar
+bloodmagic:BlockPillar2:2, Accented Destructive Stone Pillar
+bloodmagic:BlockPillar2:3, Accented Vengeful Stone Pillar
+bloodmagic:BlockPillar2:4, Accented Steadfast Stone Pillar
+bloodmagic:BlockPillarCap1:0, Raw Stone Pillar Cap
+bloodmagic:BlockPillarCap1:1, Corrosive Stone Pillar Cap
+bloodmagic:BlockPillarCap2:0, Destructive Stone Pillar Cap
+bloodmagic:BlockPillarCap2:1, Vengeful Stone Pillar Cap
+bloodmagic:BlockPillarCap3, tile.BloodMagic.pillarCap3..name
+bloodmagic:BlockDemonLight:0, Raw Demon Eye
+bloodmagic:BlockDemonLight:1, Corrosive Demon Eye
+bloodmagic:BlockDemonLight:2, Destructive Demon Eye
+bloodmagic:BlockDemonLight:3, Vengeful Demon Eye
+bloodmagic:BlockDemonLight:4, Steadfast Demon Eye
+bloodmagic:BlockWall1:0, Raw Stone Brick Wall
+bloodmagic:BlockWall1:1, Corrosive Stone Brick Wall
+bloodmagic:BlockWall1:2, Destructive Stone Brick Wall
+bloodmagic:BlockWall1:3, Vengeful Stone Brick Wall
+bloodmagic:BlockWall1:4, Steadfast Stone Brick Wall
+bloodmagic:BlockWall1:5, Raw Small Stone Brick Wall
+bloodmagic:BlockWall1:6, Corrosive Small Stone Brick Wall
+bloodmagic:BlockWall1:7, Destructive Small Stone Brick Wall
+bloodmagic:BlockWall1:8, Vengeful Small Stone Brick Wall
+bloodmagic:BlockWall1:9, Steadfast Small Stone Brick Wall
+bloodmagic:BlockWall1:10, Raw Stone Wall
+bloodmagic:BlockWall1:11, Corrosive Stone Wall
+bloodmagic:BlockWall1:12, Destructive Stone Wall
+bloodmagic:BlockWall1:13, Vengeful Stone Wall
+bloodmagic:BlockWall1:14, Steadfast Stone Wall
+bloodmagic:BlockStairs1:0, Raw Stone Stairs
+bloodmagic:BlockStairs1:1, Corrosive Stone Stairs
+bloodmagic:BlockStairs2:0, Destructive Stone Stairs
+bloodmagic:BlockStairs2:1, Vengeful Stone Stairs
+bloodmagic:BlockStairs3, tile.BloodMagic.stairs3..name
+bloodmagic:BlockInversionPillar:0, Raw Inversion Pillar
+bloodmagic:BlockInversionPillar:1, Corrosive Inversion Pillar
+bloodmagic:BlockInversionPillar:2, Destructive Inversion Pillar
+bloodmagic:BlockInversionPillar:3, Vengeful Inversion Pillar
+bloodmagic:BlockInversionPillar:4, Steadfast Inversion Pillar
+bloodmagic:BlockInversionPillarEnd:0, Raw Inversion Pillar Base
+bloodmagic:BlockInversionPillarEnd:1, Raw Inversion Pillar Cap
+bloodmagic:BlockInversionPillarEnd:2, Corrosive Inversion Pillar Base
+bloodmagic:BlockInversionPillarEnd:3, Corrosive Inversion Pillar Cap
+bloodmagic:BlockInversionPillarEnd:4, Destructive Inversion Pillar Base
+bloodmagic:BlockInversionPillarEnd:5, Destructive Inversion Pillar Cap
+bloodmagic:BlockInversionPillarEnd:6, Vengeful Inversion Pillar Base
+bloodmagic:BlockInversionPillarEnd:7, Vengeful Inversion Pillar Cap
+bloodmagic:BlockInversionPillarEnd:8, Steadfast Inversion Pillar Base
+bloodmagic:BlockInversionPillarEnd:9, Steadfast Inversion Pillar Cap
+bloodmagic:ItemBloodOrb:0, Weak Blood Orb
+bloodmagic:ItemBloodOrb:1, Apprentice Blood Orb
+bloodmagic:ItemBloodOrb:2, Magician Blood Orb
+bloodmagic:ItemBloodOrb:3, Master Blood Orb
+bloodmagic:ItemBloodOrb:4, Archmage Blood Orb
+bloodmagic:ItemBloodOrb:5, Transcendent Blood Orb
+bloodmagic:ItemActivationCrystal:0, Weak Activation Crystal
+bloodmagic:ItemActivationCrystal:1, Awakened Activation Crystal
+bloodmagic:ItemActivationCrystal:2, Creative Activation Crystal
+bloodmagic:ItemSlate:0, Blank Slate
+bloodmagic:ItemSlate:1, Reinforced Slate
+bloodmagic:ItemSlate:2, Imbued Slate
+bloodmagic:ItemSlate:3, Demonic Slate
+bloodmagic:ItemSlate:4, Ethereal Slate
+bloodmagic:ItemInscriptionTool:1, Elemental Inscription Tool: Water
+bloodmagic:ItemInscriptionTool:2, Elemental Inscription Tool: Fire
+bloodmagic:ItemInscriptionTool:3, Elemental Inscription Tool: Earth
+bloodmagic:ItemInscriptionTool:4, Elemental Inscription Tool: Air
+bloodmagic:ItemInscriptionTool:5, Elemental Inscription Tool: Dusk
+bloodmagic:ItemInscriptionTool:6, Elemental Inscription Tool: Dawn
+bloodmagic:ItemSacrificialDagger:0, Sacrificial Dagger
+bloodmagic:ItemSacrificialDagger:1, Creative Sacrificial Dagger
+bloodmagic:ItemPackSacrifice, Coat of Arms
+bloodmagic:ItemPackSelfSacrifice, Blood Letter's Pack
+bloodmagic:ItemDaggerOfSacrifice, Dagger of Sacrifice
+bloodmagic:ItemRitualDiviner:0, Ritual Diviner
+bloodmagic:ItemRitualDiviner:1, Ritual Diviner [Dusk]
+bloodmagic:ItemRitualDiviner:2, Ritual Diviner [Dawn]
+bloodmagic:ItemRitualReader, Ritual Tinkerer
+bloodmagic:ItemLavaCrystal, Lava Crystal
+bloodmagic:ItemBoundSword, Bound Blade
+bloodmagic:ItemBoundPickaxe, Bound Pickaxe
+bloodmagic:ItemBoundAxe, Bound Axe
+bloodmagic:ItemBoundShovel, Bound Shovel
+bloodmagic:ItemSigilDivination, Divination Sigil
+bloodmagic:ItemSigilAir, Air Sigil
+bloodmagic:ItemSigilWater, Water Sigil
+bloodmagic:ItemSigilLava, Lava Sigil
+bloodmagic:ItemSigilVoid, Void Sigil
+bloodmagic:ItemSigilGreenGrove, Sigil of the Green Grove
+bloodmagic:ItemSigilBloodLight, Sigil of the Blood Lamp
+bloodmagic:ItemSigilElementalAffinity, Sigil of Elemental Affinity
+bloodmagic:ItemSigilMagnetism, Sigil of Magnetism
+bloodmagic:ItemSigilSuppression, Sigil of Suppression
+bloodmagic:ItemSigilHaste, Sigil of Haste
+bloodmagic:ItemSigilFastMiner, Sigil of the Fast Miner
+bloodmagic:ItemSigilSeer, Seer's Sigil
+bloodmagic:ItemSigilPhantomBridge, Sigil of the Phantom Bridge
+bloodmagic:ItemSigilWhirlwind, Sigil of the Whirlwind
+bloodmagic:ItemSigilCompression, Sigil of Compression
+bloodmagic:ItemSigilEnderSeverance, Sigil of Ender Severance
+bloodmagic:ItemSigilHolding, Sigil of Holding
+bloodmagic:ItemSigilTeleposition, Teleposition Sigil
+bloodmagic:ItemSigilTransposition, Transposition Sigil
+bloodmagic:ItemSigilClaw, Sigil of the Claw
+bloodmagic:ItemSigilBounce, Sigil of Elasticity
+bloodmagic:ItemSigilFrost, Sigil of Winter's Breath
+bloodmagic:ItemComponent:0, Water Reagent
+bloodmagic:ItemComponent:1, Lava Reagent
+bloodmagic:ItemComponent:2, Air Reagent
+bloodmagic:ItemComponent:3, Mining Reagent
+bloodmagic:ItemComponent:4, Void Reagent
+bloodmagic:ItemComponent:5, Growth Reagent
+bloodmagic:ItemComponent:6, Elemental Affinity Reagent
+bloodmagic:ItemComponent:7, Sight Reagent
+bloodmagic:ItemComponent:8, Binding Reagent
+bloodmagic:ItemComponent:9, Suppression Reagent
+bloodmagic:ItemComponent:10, Frame Parts
+bloodmagic:ItemComponent:11, Blood Lamp Reagent
+bloodmagic:ItemComponent:12, Magnetism Reagent
+bloodmagic:ItemComponent:13, Haste Reagent
+bloodmagic:ItemComponent:14, Compression Reagent
+bloodmagic:ItemComponent:15, Phantom Bridge Reagent
+bloodmagic:ItemComponent:16, Severance Reagent
+bloodmagic:ItemComponent:17, Teleposition Reagent
+bloodmagic:ItemComponent:18, Transposition Reagent
+bloodmagic:ItemComponent:19, Iron Sand
+bloodmagic:ItemComponent:20, Gold Sand
+bloodmagic:ItemComponent:21, Coal Sand
+bloodmagic:ItemComponent:22, Plant Oil
+bloodmagic:ItemComponent:23, Sulfur
+bloodmagic:ItemComponent:24, Saltpeter
+bloodmagic:ItemComponent:25, Neuro Toxin
+bloodmagic:ItemComponent:26, Antiseptic
+bloodmagic:ItemComponent:27, Holding Reagent
+bloodmagic:ItemComponent:28, Simple Lengthening Catalyst
+bloodmagic:ItemComponent:29, Simple Power Catalyst
+bloodmagic:ItemComponent:30, Claw Reagent
+bloodmagic:ItemComponent:31, Elasticity Reagent
+bloodmagic:ItemComponent:32, Frost Reagent
+bloodmagic:ItemDemonCrystal:0, Demon Will Crystal
+bloodmagic:ItemDemonCrystal:1, Corrosive Will Crystal
+bloodmagic:ItemDemonCrystal:2, Destructive Will Crystal
+bloodmagic:ItemDemonCrystal:3, Vengeful Will Crystal
+bloodmagic:ItemDemonCrystal:4, Steadfast Will Crystal
+bloodmagic:ItemTelepositionFocus:0, Teleposition Focus
+bloodmagic:ItemTelepositionFocus:1, Enhanced Teleposition Focus
+bloodmagic:ItemTelepositionFocus:2, Reinforced Teleposition Focus
+bloodmagic:ItemTelepositionFocus:3, Demonic Teleposition Focus
+bloodmagic:ItemExperienceBook, Tome of Peritia
+bloodmagic:ItemBloodShard:0, Weak Blood Shard
+bloodmagic:ItemBloodShard:1, Demon Blood Shard
+bloodmagic:ItemLivingArmourHelmet, item.BloodMagic.livingArmour..name
+bloodmagic:ItemLivingArmourChest, item.BloodMagic.livingArmour..name
+bloodmagic:ItemLivingArmourLegs, item.BloodMagic.livingArmour..name
+bloodmagic:ItemLivingArmourBoots, item.BloodMagic.livingArmour..name
+bloodmagic:ItemSentientArmourHelmet, item.BloodMagic.sentientArmour..name
+bloodmagic:ItemSentientArmourChest, item.BloodMagic.sentientArmour..name
+bloodmagic:ItemSentientArmourLegs, item.BloodMagic.sentientArmour..name
+bloodmagic:ItemSentientArmourBoots, item.BloodMagic.sentientArmour..name
+bloodmagic:ItemAltarMaker, Altar Maker
+bloodmagic:ItemUpgradeTrainer:0, Living Armour Training Bracelet
+bloodmagic:ItemArcaneAshes, Arcane Ashes
+bloodmagic:ItemMonsterSoul:0, Demonic Will
+bloodmagic:ItemMonsterSoul:1, Corrosive Demonic Will
+bloodmagic:ItemMonsterSoul:2, Destructive Demonic Will
+bloodmagic:ItemMonsterSoul:3, Vengeful Demonic Will
+bloodmagic:ItemMonsterSoul:4, Steadfast Demonic Will
+bloodmagic:ItemSoulGem:0, Petty Tartaric Gem
+bloodmagic:ItemSoulGem:1, Lesser Tartaric Gem
+bloodmagic:ItemSoulGem:2, Common Tartaric Gem
+bloodmagic:ItemSoulGem:3, Greater Tartaric Gem
+bloodmagic:ItemSoulGem:4, Grand Tartaric Gem
+bloodmagic:ItemSoulGem:0, Petty Tartaric Gem
+bloodmagic:ItemSoulGem:1, Lesser Tartaric Gem
+bloodmagic:ItemSoulGem:2, Common Tartaric Gem
+bloodmagic:ItemSoulGem:3, Greater Tartaric Gem
+bloodmagic:ItemSoulGem:4, Grand Tartaric Gem
+bloodmagic:ItemSoulGem:0, Petty Tartaric Gem
+bloodmagic:ItemSoulGem:1, Lesser Tartaric Gem
+bloodmagic:ItemSoulGem:2, Common Tartaric Gem
+bloodmagic:ItemSoulGem:3, Greater Tartaric Gem
+bloodmagic:ItemSoulGem:4, Grand Tartaric Gem
+bloodmagic:ItemSoulGem:0, Petty Tartaric Gem
+bloodmagic:ItemSoulGem:1, Lesser Tartaric Gem
+bloodmagic:ItemSoulGem:2, Common Tartaric Gem
+bloodmagic:ItemSoulGem:3, Greater Tartaric Gem
+bloodmagic:ItemSoulGem:4, Grand Tartaric Gem
+bloodmagic:ItemSoulGem:0, Petty Tartaric Gem
+bloodmagic:ItemSoulGem:1, Lesser Tartaric Gem
+bloodmagic:ItemSoulGem:2, Common Tartaric Gem
+bloodmagic:ItemSoulGem:3, Greater Tartaric Gem
+bloodmagic:ItemSoulGem:4, Grand Tartaric Gem
+bloodmagic:ItemSoulGem:0, Petty Tartaric Gem
+bloodmagic:ItemSoulGem:1, Lesser Tartaric Gem
+bloodmagic:ItemSoulGem:2, Common Tartaric Gem
+bloodmagic:ItemSoulGem:3, Greater Tartaric Gem
+bloodmagic:ItemSoulGem:4, Grand Tartaric Gem
+bloodmagic:ItemSoulSnare:0, Rudimentary Snare
+bloodmagic:ItemSentientSword, Sentient Sword
+bloodmagic:ItemSentientBow, Sentient Bow
+bloodmagic:ItemSentientArmourGem, Sentient Armour Gem
+bloodmagic:ItemSentientAxe, Sentient Axe
+bloodmagic:ItemSentientPickaxe, Sentient Pickaxe
+bloodmagic:ItemSentientShovel, Sentient Shovel
+bloodmagic:ItemNodeRouter, Node Router
+bloodmagic:ItemRouterFilter:0, Precise Item Filter
+bloodmagic:ItemRouterFilter:1, NBT Item Filter
+bloodmagic:ItemRouterFilter:2, Mod Item Filter
+bloodmagic:ItemRouterFilter:3, Ore Dictionary Item Filter
+bloodmagic:ItemFluidRouterFilter:0, Fluid Filter
+bloodmagic:ItemCuttingFluid:0, Basic Cutting Fluid
+bloodmagic:ItemCuttingFluid:1, Explosive Powder
+bloodmagic:ItemSanguineBook, Inspectoris Scandalum
+bloodmagic:ItemLivingArmourPointsUpgrade:0, Draft of Angelus
+bloodmagic:ItemDemonWillGauge, Demon Will Aura Gauge
+bloodmagic:ItemPotionFlask, Potion Flask
 sonarcore:ReinforcedStoneBlock, Reinforced Stone
 sonarcore:ReinforcedStoneStairs, Reinforced Stone Stairs
 sonarcore:ReinforcedStoneFence, Reinforced Stone Fence
@@ -7878,6 +8321,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Block
 chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Small Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Tiny TNT
+chiselsandbits:block_bit:0, Chiseled Bit - Portal Frame
+chiselsandbits:block_bit:0, Chiseled Bit - Sticky Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Compressed Crafting Table
 chiselsandbits:block_bit:0, Chiseled Bit - Double Compressed Crafting Table
 chiselsandbits:block_bit:0, Chiseled Bit - Neutronium Block
@@ -7950,6 +8395,91 @@ chiselsandbits:block_bit:0, Chiseled Bit - Jacaranda Wood Planks
 chiselsandbits:block_bit:0, Chiseled Bit - Mahogany Wood Planks
 chiselsandbits:block_bit:0, Chiseled Bit - Ebony Wood Planks
 chiselsandbits:block_bit:0, Chiseled Bit - Eucalyptus Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Blank Rune
+chiselsandbits:block_bit:0, Chiseled Bit - Speed Rune
+chiselsandbits:block_bit:0, Chiseled Bit - Efficiency Rune
+chiselsandbits:block_bit:0, Chiseled Bit - Rune of Sacrifice
+chiselsandbits:block_bit:0, Chiseled Bit - Rune of Self Sacrifice
+chiselsandbits:block_bit:0, Chiseled Bit - Displacement Rune
+chiselsandbits:block_bit:0, Chiseled Bit - Rune of Capacity
+chiselsandbits:block_bit:0, Chiseled Bit - Rune of Augmented Capacity
+chiselsandbits:block_bit:0, Chiseled Bit - Rune of the Orb
+chiselsandbits:block_bit:0, Chiseled Bit - Acceleration Rune
+chiselsandbits:block_bit:0, Chiseled Bit - Charging Rune
+chiselsandbits:block_bit:0, Chiseled Bit - Ritual Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Ritual Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Ritual Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Ritual Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Ritual Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Ritual Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Ritual Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Crystal Cluster
+chiselsandbits:block_bit:0, Chiseled Bit - Crystal Cluster Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Large Bloodstone Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Bloodstone Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Wooden Path
+chiselsandbits:block_bit:0, Chiseled Bit - Tiled Wooden Path
+chiselsandbits:block_bit:0, Chiseled Bit - Stone Brick Path
+chiselsandbits:block_bit:0, Chiseled Bit - Tiled Stone Path
+chiselsandbits:block_bit:0, Chiseled Bit - Worn Stone Brick Path
+chiselsandbits:block_bit:0, Chiseled Bit - Tiled Worn Stone Path
+chiselsandbits:block_bit:0, Chiseled Bit - Obsidian Brick Path
+chiselsandbits:block_bit:0, Chiseled Bit - Tiled Obsidian Path
+chiselsandbits:block_bit:0, Chiseled Bit - Raw Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Corrosive Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Destructive Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Vengeful Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Steadfast Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Small Raw Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Small Corrosive Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Small Destructive Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Small Vengeful Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Small Steadfast Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Raw Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Corrosive Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Destructive Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Vengeful Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Steadfast Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Raw Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Corrosive Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Destructive Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Vengeful Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Steadfast Stone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Raw Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Corrosive Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Destructive Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Vengeful Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Steadfast Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Raw Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Corrosive Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Destructive Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Vengeful Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Steadfast Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Raw Demon Alloy
+chiselsandbits:block_bit:0, Chiseled Bit - Corrosive Demon Alloy
+chiselsandbits:block_bit:0, Chiseled Bit - Destructive Demon Alloy
+chiselsandbits:block_bit:0, Chiseled Bit - Vengeful Demon Alloy
+chiselsandbits:block_bit:0, Chiseled Bit - Steadfast Demon Alloy
+chiselsandbits:block_bit:0, Chiseled Bit - Raw Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Corrosive Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Destructive Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Vengeful Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Steadfast Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Raw Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Corrosive Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Destructive Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Vengeful Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Accented Steadfast Stone Pillar Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Raw Stone Pillar Cap Down
+chiselsandbits:block_bit:0, Chiseled Bit - Corrosive Stone Pillar Cap Down
+chiselsandbits:block_bit:0, Chiseled Bit - Destructive Stone Pillar Cap Down
+chiselsandbits:block_bit:0, Chiseled Bit - Vengeful Stone Pillar Cap Down
+chiselsandbits:block_bit:0, Chiseled Bit - Steadfast Stone Pillar Cap Down
+chiselsandbits:block_bit:0, Chiseled Bit - Raw Demon Eye
+chiselsandbits:block_bit:0, Chiseled Bit - Corrosive Demon Eye
+chiselsandbits:block_bit:0, Chiseled Bit - Destructive Demon Eye
+chiselsandbits:block_bit:0, Chiseled Bit - Vengeful Demon Eye
+chiselsandbits:block_bit:0, Chiseled Bit - Steadfast Demon Eye
 chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Stone Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Dirt
@@ -10220,6 +10750,22 @@ chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
+chiselsandbits:block_bit:0, Chiseled Bit - Placeholder
 chiselsandbits:block_bit:0, Chiseled Bit - Copper Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Tin Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Silver Ore
@@ -10767,6 +11313,7 @@ chiselsandbits:block_bit:0, Chiseled Bit - Molten Aluminum Brass
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Silver
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Uranium
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Tin
+chiselsandbits:block_bit:0, Chiseled Bit - Life Essence
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Aluminum
 chiselsandbits:block_bit:0, Chiseled Bit - Hotspring Water
@@ -10802,6 +11349,546 @@ cookingforblockheads:counter, Kitchen Counter
 cookingforblockheads:recipeBook:0, Cooking for Blockheads
 cookingforblockheads:recipeBook:1, Cooking for Blockheads I
 cookingforblockheads:recipeBook:2, Cooking for Blockheads II
+customnpcs:npcWand, Npc Wand
+customnpcs:npcMobCloner, Mob Cloner
+customnpcs:npcScripter, Scripter
+customnpcs:npcMovingPath, Npc Pather
+customnpcs:npcMounter, Mounter
+customnpcs:npcTeleporter, Teleporter
+customnpcs:npcScriptedDoorTool, Scripted Door
+customnpcs:npcSoulstoneEmpty, Soulstone Empty
+customnpcs:npcSoulstoneFilled, Soulstone Filled
+customnpcs:npcRedstoneBlock, Redstone Block
+customnpcs:npcCarpentyBench:0, Carpentry Bench
+customnpcs:npcCarpentyBench:1, Anvil
+customnpcs:npcMailbox:0, Mailbox
+customnpcs:npcMailbox:1, Mailbox
+customnpcs:npcWaypoint, Location Quest Block
+customnpcs:npcBorder, Border
+customnpcs:npcScripted, Scripted Block
+customnpcs:npcScriptedDoor, tile.npcScriptedDoor.name
+customnpcs:npcBuilderBlock, Builder Block
+customnpcs:npcCopyBlock, Copy Block
+customnpcs:npcTradingBlock, Trading Block
+customnpcs:npcBloodBlock:0, Blood Block
+customnpcs:npcBloodBlock:1, Blood Block
+customnpcs:npcBloodBlock:2, Blood Block
+customnpcs:npcBanner:0, Banner
+customnpcs:npcBanner:1, Banner
+customnpcs:npcBanner:2, Banner
+customnpcs:npcBanner:3, Banner
+customnpcs:npcBanner:4, Banner
+customnpcs:npcWallBanner:0, Wall Banner
+customnpcs:npcWallBanner:1, Wall Banner
+customnpcs:npcWallBanner:2, Wall Banner
+customnpcs:npcWallBanner:3, Wall Banner
+customnpcs:npcWallBanner:4, Wall Banner
+customnpcs:npcTallLamp:0, Tall Lamp
+customnpcs:npcTallLamp:1, Tall Lamp
+customnpcs:npcTallLamp:2, Tall Lamp
+customnpcs:npcTallLamp:3, Tall Lamp
+customnpcs:npcTallLamp:4, Tall Lamp
+customnpcs:npcChair:0, Chair
+customnpcs:npcChair:1, Chair
+customnpcs:npcChair:2, Chair
+customnpcs:npcChair:3, Chair
+customnpcs:npcChair:4, Chair
+customnpcs:npcChair:5, Chair
+customnpcs:npcCrate:0, Crate
+customnpcs:npcCrate:1, Crate
+customnpcs:npcCrate:2, Crate
+customnpcs:npcCrate:3, Crate
+customnpcs:npcCrate:4, Crate
+customnpcs:npcCrate:5, Crate
+customnpcs:npcWeaponRack:0, Weapon Rack
+customnpcs:npcWeaponRack:1, Weapon Rack
+customnpcs:npcWeaponRack:2, Weapon Rack
+customnpcs:npcWeaponRack:3, Weapon Rack
+customnpcs:npcWeaponRack:4, Weapon Rack
+customnpcs:npcWeaponRack:5, Weapon Rack
+customnpcs:npcCouchWool:0, Wool Couch
+customnpcs:npcCouchWool:1, Wool Couch
+customnpcs:npcCouchWool:2, Wool Couch
+customnpcs:npcCouchWool:3, Wool Couch
+customnpcs:npcCouchWool:4, Wool Couch
+customnpcs:npcCouchWool:5, Wool Couch
+customnpcs:npcCouchWood:0, Wooden Couch
+customnpcs:npcCouchWood:1, Wooden Couch
+customnpcs:npcCouchWood:2, Wooden Couch
+customnpcs:npcCouchWood:3, Wooden Couch
+customnpcs:npcCouchWood:4, Wooden Couch
+customnpcs:npcCouchWood:5, Wooden Couch
+customnpcs:npcTable:0, Wooden Table
+customnpcs:npcTable:1, Wooden Table
+customnpcs:npcTable:2, Wooden Table
+customnpcs:npcTable:3, Wooden Table
+customnpcs:npcTable:4, Wooden Table
+customnpcs:npcTable:5, Wooden Table
+customnpcs:npcStool:0, Stool
+customnpcs:npcStool:1, Stool
+customnpcs:npcStool:2, Stool
+customnpcs:npcStool:3, Stool
+customnpcs:npcStool:4, Stool
+customnpcs:npcStool:5, Stool
+customnpcs:npcPlaceholder:0, Placeholder
+customnpcs:npcPlaceholder:1, Placeholder
+customnpcs:npcPlaceholder:2, Placeholder
+customnpcs:npcPlaceholder:3, Placeholder
+customnpcs:npcPlaceholder:4, Placeholder
+customnpcs:npcPlaceholder:5, Placeholder
+customnpcs:npcPlaceholder:6, Placeholder
+customnpcs:npcPlaceholder:7, Placeholder
+customnpcs:npcPlaceholder:8, Placeholder
+customnpcs:npcPlaceholder:9, Placeholder
+customnpcs:npcPlaceholder:10, Placeholder
+customnpcs:npcPlaceholder:11, Placeholder
+customnpcs:npcPlaceholder:12, Placeholder
+customnpcs:npcPlaceholder:13, Placeholder
+customnpcs:npcPlaceholder:14, Placeholder
+customnpcs:npcPlaceholder:15, Placeholder
+customnpcs:npcBigSign, Big Sign
+customnpcs:npcBarrel:0, Barrel
+customnpcs:npcBarrel:1, Barrel
+customnpcs:npcBarrel:2, Barrel
+customnpcs:npcBarrel:3, Barrel
+customnpcs:npcBarrel:4, Barrel
+customnpcs:npcBarrel:5, Barrel
+customnpcs:npcTombstone:0, Tombstone
+customnpcs:npcTombstone:1, Tombstone
+customnpcs:npcTombstone:2, Tombstone
+customnpcs:npcShelf:0, Shelf
+customnpcs:npcShelf:1, Shelf
+customnpcs:npcShelf:2, Shelf
+customnpcs:npcShelf:3, Shelf
+customnpcs:npcShelf:4, Shelf
+customnpcs:npcShelf:5, Shelf
+customnpcs:npcSign:0, Sign
+customnpcs:npcSign:1, Sign
+customnpcs:npcSign:2, Sign
+customnpcs:npcSign:3, Sign
+customnpcs:npcSign:4, Sign
+customnpcs:npcSign:5, Sign
+customnpcs:npcBeam:0, Beam
+customnpcs:npcBeam:1, Beam
+customnpcs:npcBeam:2, Beam
+customnpcs:npcBeam:3, Beam
+customnpcs:npcBeam:4, Beam
+customnpcs:npcBeam:5, Beam
+customnpcs:npcBook, Book
+customnpcs:npcPedestal:0, Pedestal
+customnpcs:npcPedestal:1, Pedestal
+customnpcs:npcPedestal:2, Pedestal
+customnpcs:npcPedestal:3, Pedestal
+customnpcs:npcPedestal:4, Pedestal
+customnpcs:npcCrystalBlock:0, Crystal
+customnpcs:npcCrystalBlock:1, Crystal
+customnpcs:npcCrystalBlock:2, Crystal
+customnpcs:npcCrystalBlock:3, Crystal
+customnpcs:npcCrystalBlock:4, Crystal
+customnpcs:npcCrystalBlock:5, Crystal
+customnpcs:npcCrystalBlock:6, Crystal
+customnpcs:npcCrystalBlock:7, Crystal
+customnpcs:npcCrystalBlock:8, Crystal
+customnpcs:npcCrystalBlock:9, Crystal
+customnpcs:npcCrystalBlock:10, Crystal
+customnpcs:npcCrystalBlock:11, Crystal
+customnpcs:npcCrystalBlock:12, Crystal
+customnpcs:npcCrystalBlock:13, Crystal
+customnpcs:npcCrystalBlock:14, Crystal
+customnpcs:npcCrystalBlock:15, Crystal
+customnpcs:npcCampfire, Campfire
+customnpcs:npcCandle, Candle
+customnpcs:npcLamp, Lamp
+customnpcs:npcCampfireUnlit, Campfire
+customnpcs:npcCandleUnlit, Candle
+customnpcs:npcLampUnlit, Lamp
+customnpcs:npcBanjo, Banjo
+customnpcs:npcViolin, Violin
+customnpcs:npcViolinBow, Violin Bow
+customnpcs:npcHarp, Harp
+customnpcs:npcGuitar, Guitar
+customnpcs:npcFrenchHorn, French Horn
+customnpcs:npcOcarina, Ocarina
+customnpcs:npcClarinet, Clarinet
+customnpcs:npcWoodenGun, Wooden Gun
+customnpcs:npcWoodenBullet, Wooden Bullet
+customnpcs:npcStoneGun, Stone Gun
+customnpcs:npcStoneBullet, Stone Bullet
+customnpcs:npcIronGun, Iron Gun
+customnpcs:npcIronBullet, Iron Bullet
+customnpcs:npcGoldGun, Golden Gun
+customnpcs:npcGoldenBullet, Golden Bullet
+customnpcs:npcDiamondGun, Diamond Gun
+customnpcs:npcDiamondBullet, Diamond Bullet
+customnpcs:npcBronzeGun, Bronze Gun
+customnpcs:npcBronzeBullet, Bronze Bullet
+customnpcs:npcEmeraldGun, Emerald Gun
+customnpcs:npcEmeraldBullet, Emerald Bullet
+customnpcs:npcMachineGun, Machine Gun
+customnpcs:npcBlackBullet, Black Bullet
+customnpcs:npcWoodenTrident, Wooden Trident
+customnpcs:npcStoneTrident, Stone Trident
+customnpcs:npcIronTrident, Iron Trident
+customnpcs:npcGoldTrident, Golden Trident
+customnpcs:npcDiamondTrident, Diamond Trident
+customnpcs:npcBronzeTrident, Bronze Trident
+customnpcs:npcEmeraldTrident, Emerald Trident
+customnpcs:npcCursedTrident, Cursed Trident
+customnpcs:npcDemonicTrident, Demonic Trident
+customnpcs:npcFrostTrident, Frost Trident
+customnpcs:npcMithrilTrident, Mithril Trident
+customnpcs:npcNatureSpell, Nature Spell
+customnpcs:npcArcaneSpell, Arcane Spell
+customnpcs:npcLightningSpell, Lightning Spell
+customnpcs:npcIceSpell, Ice Spell
+customnpcs:npcFireSpell, Fire Spell
+customnpcs:npcDarkSpell, Dark Spell
+customnpcs:npcHolySpell, Holy Spell
+customnpcs:npcOrb:0, Orb
+customnpcs:npcOrb:1, Orb
+customnpcs:npcOrb:2, Orb
+customnpcs:npcOrb:3, Orb
+customnpcs:npcOrb:4, Orb
+customnpcs:npcOrb:5, Orb
+customnpcs:npcOrb:6, Orb
+customnpcs:npcOrb:7, Orb
+customnpcs:npcOrb:8, Orb
+customnpcs:npcOrb:9, Orb
+customnpcs:npcOrb:10, Orb
+customnpcs:npcOrb:11, Orb
+customnpcs:npcOrb:12, Orb
+customnpcs:npcOrb:13, Orb
+customnpcs:npcOrb:14, Orb
+customnpcs:npcOrb:15, Orb
+customnpcs:npcMana, Mana
+customnpcs:npcBrokenOrb:0, BrokenOrb
+customnpcs:npcBrokenOrb:1, BrokenOrb
+customnpcs:npcBrokenOrb:2, BrokenOrb
+customnpcs:npcBrokenOrb:3, BrokenOrb
+customnpcs:npcBrokenOrb:4, BrokenOrb
+customnpcs:npcBrokenOrb:5, BrokenOrb
+customnpcs:npcBrokenOrb:6, BrokenOrb
+customnpcs:npcBrokenOrb:7, BrokenOrb
+customnpcs:npcBrokenOrb:8, BrokenOrb
+customnpcs:npcBrokenOrb:9, BrokenOrb
+customnpcs:npcBrokenOrb:10, BrokenOrb
+customnpcs:npcBrokenOrb:11, BrokenOrb
+customnpcs:npcBrokenOrb:12, BrokenOrb
+customnpcs:npcBrokenOrb:13, BrokenOrb
+customnpcs:npcBrokenOrb:14, BrokenOrb
+customnpcs:npcBrokenOrb:15, BrokenOrb
+customnpcs:npcKunai, Kunai
+customnpcs:npcReverseKunai, Reverse Kunai
+customnpcs:npcShuriken, Shuriken
+customnpcs:npcGiantShuriken, Giant Shuriken
+customnpcs:npcKatana, Katana
+customnpcs:npcKukri, Kukri
+customnpcs:npcBronzeSword, Bronze Sword
+customnpcs:npcEmeraldSword, Emerald Sword
+customnpcs:npcDemonicSword, Demonic Sword
+customnpcs:npcFrostSword, Frost Sword
+customnpcs:npcMithrilSword, Mithril Sword
+customnpcs:npcGolfClub, Golf Club
+customnpcs:npcMagicWand, Magic Wand
+customnpcs:npcChickenSword, Chicken Sword
+customnpcs:npcHandCuffs, Handcuffs
+customnpcs:npcHammer, Hammer
+customnpcs:npcBaseballBat, Baseball Bat
+customnpcs:npcLeadPipe, Lead Pipe
+customnpcs:npcCleaver, Cleaver
+customnpcs:npcSaber, Saber
+customnpcs:npcHockeyStick, Hockey Stick
+customnpcs:npcSledgeHammer, Sledgehammer
+customnpcs:npcBrokenBottle, Broken Bottle
+customnpcs:npcCombatKnive, Combat Knife
+customnpcs:npcMacuahuitl, Macuahuitl
+customnpcs:npcBoStaff, Bo Staff
+customnpcs:npcSaiBlade, Sai Blade
+customnpcs:npcSlingshot, Slingshot
+customnpcs:npcMusket, Musket
+customnpcs:npcLeafBlade, Leaf Blade
+customnpcs:npcCrossbow, Crossbow
+customnpcs:npcCrossBolt, Crossbow Bolt
+customnpcs:npcBatton, Baton
+customnpcs:npcGunChainsaw, GunChainsaw
+customnpcs:npcRapier, Rapier
+customnpcs:npcCrowbar, Crowbar
+customnpcs:npcPipeWrench, Pipe Wrench
+customnpcs:npcSwissArmyKnife, Swiss Army Knife
+customnpcs:npcWrench, Wrench
+customnpcs:npcExcalibur, Excalibur
+customnpcs:npcWoodenShield, Round Wooden Shield
+customnpcs:npcStoneShield, Round Stone Shield
+customnpcs:npcIronShield, Round Iron Shield
+customnpcs:npcGoldenShield, Round Golden Shield
+customnpcs:npcDiaShield, Round Diamond Shield
+customnpcs:npcBronzeShield, Round Bronze Shield
+customnpcs:npcEmeraldShield, Round Emerald Shield
+customnpcs:npcDemonicShield, Demonic Shield
+customnpcs:npcFrostShield, Frost Shield
+customnpcs:npcMithrilShield, Mithril Shield
+customnpcs:npcFullWoodenShield, Wooden Shield
+customnpcs:npcFullStoneShield, Stone Shield
+customnpcs:npcFullIronShield, Iron Shield
+customnpcs:npcFullGoldenShield, Golden Shield
+customnpcs:npcFullDiaShield, Diamond Shield
+customnpcs:npcFullBronzeShield, Bronze Shield
+customnpcs:npcFullEmeraldShield, Emerald Shield
+customnpcs:npcHeaterShield, Steel Heater Shield
+customnpcs:npcCryscentShield, Steel Cryscent Shield
+customnpcs:npcScutumShield, Steel Scutum Shield
+customnpcs:npcTowerShield, Steel Tower Shield
+customnpcs:npcWoodenSpear, Wooden Spear
+customnpcs:npcStoneSpear, Stone Spear
+customnpcs:npcIronSpear, Iron Spear
+customnpcs:npcGoldenSpear, Golden Spear
+customnpcs:npcDiamondSpear, Diamond Spear
+customnpcs:npcBronzeSpear, Bronze Spear
+customnpcs:npcEmeraldSpear, Emerald Spear
+customnpcs:npcDemonicSpear, Demonic Spear
+customnpcs:npcFrostSpear, Frost Spear
+customnpcs:npcMithrilSpear, Mithril Spear
+customnpcs:npcWoodenHalberd, Wooden Halberd
+customnpcs:npcStoneHalberd, Stone Halberd
+customnpcs:npcIronHalberd, Iron Halberd
+customnpcs:npcGoldenHalberd, Golden Halberd
+customnpcs:npcDiamondHalberd, Diamond Halberd
+customnpcs:npcBronzeHalberd, Bronze Halberd
+customnpcs:npcEmeraldHalberd, Emerald Halberd
+customnpcs:npcDemonicHalberd, Demonic Halberd
+customnpcs:npcFrostHalberd, Frost Halberd
+customnpcs:npcMithrilHalberd, Mithril Halberd
+customnpcs:npcWoodenBattleAxe, Wooden Battle Axe
+customnpcs:npcStoneBattleAxe, Stone Battle Axe
+customnpcs:npcIronBattleAxe, Iron Battle Axe
+customnpcs:npcGoldenBattleAxe, Golden Battle Axe
+customnpcs:npcDiamondBattleAxe, Diamond Battle Axe
+customnpcs:npcBronzeBattleAxe, Bronze Battle Axe
+customnpcs:npcEmeraldBattleAxe, Emerald Battle Axe
+customnpcs:npcDemonicBattleAxe, Demonic Battle Axe
+customnpcs:npcFrostBattleAxe, Frost Battle Axe
+customnpcs:npcMithrilBattleAxe, Mithril Battle Axe
+customnpcs:npcWoodenWarhammer, Wooden Warhammer
+customnpcs:npcStoneWarhammer, Stone Warhammer
+customnpcs:npcIronWarhammer, Iron Warhammer
+customnpcs:npcGoldenWarhammer, Golden Warhammer
+customnpcs:npcDiamondWarhammer, Diamond Warhammer
+customnpcs:npcBronzeWarhammer, Bronze Warhammer
+customnpcs:npcEmeraldWarhammer, Emerald Warhammer
+customnpcs:npcDemonicWarhammer, Demonic Warhammer
+customnpcs:npcFrostWarhammer, Frost Warhammer
+customnpcs:npcMithrilWarhammer, Mithril Warhammer
+customnpcs:npcWoodenMace, Wooden Mace
+customnpcs:npcStoneMace, Stone Mace
+customnpcs:npcIronMace, Iron Mace
+customnpcs:npcGoldenMace, Golden Mace
+customnpcs:npcDiamondMace, Diamond Mace
+customnpcs:npcBronzeMace, Bronze Mace
+customnpcs:npcEmeraldMace, Emerald Mace
+customnpcs:npcDemonicMace, Demonic Mace
+customnpcs:npcFrostMace, Frost Mace
+customnpcs:npcMithrilMace, Mithril Mace
+customnpcs:npcWoodenDagger, Wooden Dagger
+customnpcs:npcWoodenReversedDagger, Reversed Wooden Dagger
+customnpcs:npcStoneDagger, Stone Dagger
+customnpcs:npcStoneReversedDagger, Reversed Stone Dagger
+customnpcs:npcIronDagger, Iron Dagger
+customnpcs:npcIronReversedDagger, Reversed Iron Dagger
+customnpcs:npcGoldenDagger, Golden Dagger
+customnpcs:npcGoldenReversedDagger, Reversed Golden Dagger
+customnpcs:npcDiamondDagger, Diamond Dagger
+customnpcs:npcDiamondReversedDagger, Reversed Diamond Dagger
+customnpcs:npcBronzeDagger, Bronze Dagger
+customnpcs:npcBronzeReversedDagger, Reversed Bronze Dagger
+customnpcs:npcEmeraldDagger, Emerald Dagger
+customnpcs:npcEmeraldReversedDagger, Reversed Emerald Dagger
+customnpcs:npcDemonicDagger, Demonic Dagger
+customnpcs:npcDemonicReversedDagger, Reversed Demonic Dagger
+customnpcs:npcFrostDagger, Frost Dagger
+customnpcs:npcFrostReversedDagger, Reversed Frost Dagger
+customnpcs:npcMithrilDagger, Mithril Dagger
+customnpcs:npcMithrilReversedDagger, Reversed Mithril Dagger
+customnpcs:npcNinjaClaw, Ninja Claw
+customnpcs:npcSteelClaw, Steel Claw
+customnpcs:npcBearClaw, Bear Claw
+customnpcs:npcKatar, Katar
+customnpcs:npcWoodenStaff, Wooden Staff
+customnpcs:npcStoneStaff, Stone Staff
+customnpcs:npcIronStaff, Iron Staff
+customnpcs:npcGoldenStaff, Golden Staff
+customnpcs:npcDiamondStaff, Diamond Staff
+customnpcs:npcBronzeStaff, Bronze Staff
+customnpcs:npcEmeraldStaff, Emerald Staff
+customnpcs:npcDemonicStaff, Demonic Staff
+customnpcs:npcFrostStaff, Frost Staff
+customnpcs:npcMithrilStaff, Mithril Staff
+customnpcs:npcElementalStaff:0, Elemental Staff
+customnpcs:npcElementalStaff:1, Elemental Staff
+customnpcs:npcElementalStaff:2, Elemental Staff
+customnpcs:npcElementalStaff:3, Elemental Staff
+customnpcs:npcElementalStaff:4, Elemental Staff
+customnpcs:npcElementalStaff:5, Elemental Staff
+customnpcs:npcElementalStaff:6, Elemental Staff
+customnpcs:npcElementalStaff:7, Elemental Staff
+customnpcs:npcElementalStaff:8, Elemental Staff
+customnpcs:npcElementalStaff:9, Elemental Staff
+customnpcs:npcElementalStaff:10, Elemental Staff
+customnpcs:npcElementalStaff:11, Elemental Staff
+customnpcs:npcElementalStaff:12, Elemental Staff
+customnpcs:npcElementalStaff:13, Elemental Staff
+customnpcs:npcElementalStaff:14, Elemental Staff
+customnpcs:npcElementalStaff:15, Elemental Staff
+customnpcs:npcWoodenScythe, Wooden Scythe
+customnpcs:npcStoneScythe, Stone Scythe
+customnpcs:npcIronScythe, Iron Scythe
+customnpcs:npcGoldenScythe, Golden Scythe
+customnpcs:npcDiamondScythe, Diamond Scythe
+customnpcs:npcEmeraldScythe, Emerald Scythe
+customnpcs:npcBronzeScythe, Bronze Scythe
+customnpcs:npcDemonicScythe, Demonic Scythe
+customnpcs:npcFrostScythe, Frost Scythe
+customnpcs:npcMithrilScythe, Mithril Scythe
+customnpcs:npcWoodenGlaive, Wooden Glaive
+customnpcs:npcStoneGlaive, Stone Glaive
+customnpcs:npcIronGlaive, Iron Glaive
+customnpcs:npcGoldenGlaive, Golden Glaive
+customnpcs:npcDiamondGlaive, Diamond Glaive
+customnpcs:npcBronzeGlaive, Bronze Glaive
+customnpcs:npcEmeraldGlaive, Emerald Glaive
+customnpcs:npcDemonicGlaive, Demonic Glaive
+customnpcs:npcFrostGlaive, Frost Glaive
+customnpcs:npcMithrilGlaive, Mithril Glaive
+customnpcs:npcWoodenBroadsword, Wooden Broadsword
+customnpcs:npcStoneBroadsword, Stone Broadsword
+customnpcs:npcIronBroadsword, Iron Broadsword
+customnpcs:npcGoldenBroadsword, Golden Broadsword
+customnpcs:npcDiamondBroadsword, Diamond Broadsword
+customnpcs:npcBronzeBroadsword, Bronze Broadsword
+customnpcs:npcEmeraldBroadsword, Emerald Broadsword
+customnpcs:npcDemonicBroadsword, Demonic Broadsword
+customnpcs:npcFrostBroadsword, Frost Broadsword
+customnpcs:npcMithrilBroadsword, Mithril Broadsword
+customnpcs:npcCowleatherHead, Cowleather Helmet
+customnpcs:npcCowleatherChest, Cowleather ChestPlate
+customnpcs:npcCowleatherLegs, Cowleather Leggings
+customnpcs:npcCowleatherBoots, Cowleather Boots
+customnpcs:npcNanorumHead, Nanorum Helmet
+customnpcs:npcNanorumChest, Nanorum ChestPlate
+customnpcs:npcNanorumLegs, Nanorum Leggings
+customnpcs:npcNanorumBoots, Nanorum Boots
+customnpcs:npcTacticalHead, Tactical Helmet
+customnpcs:npcTacticalChest, Tactical Vest
+customnpcs:npcFullLeatherHead, Full Leather Helmet
+customnpcs:npcFullLeatherChest, Full Leather ChestPlate
+customnpcs:npcFullIronHead, Full Iron Helmet
+customnpcs:npcFullIronChest, Full Iron ChestPlate
+customnpcs:npcFullGoldHead, Full Gold Helmet
+customnpcs:npcFullGoldChest, Full Gold ChestPlate
+customnpcs:npcFullDiamondHead, Full Diamond Helmet
+customnpcs:npcFullDiamondChest, Full Diamond ChestPlate
+customnpcs:npcFullBronzeHead, Full Bronze Helmet
+customnpcs:npcFullBronzeChest, Full Bronze ChestPlate
+customnpcs:npcFullBronzeLeggings, Full Bronze Leggings
+customnpcs:npcFullBronzeBoots, Full Bronze Boots
+customnpcs:npcFullEmeraldHead, Full Emerald Helmet
+customnpcs:npcFullEmeraldChest, Full Emerald ChestPlate
+customnpcs:npcFullEmeraldLeggings, Full Emerald Leggings
+customnpcs:npcFullEmeraldBoots, Full Emerald Boots
+customnpcs:npcFullWoodenHead, Full Wooden Helmet
+customnpcs:npcFullWoodenChest, Full Wooden ChestPlate
+customnpcs:npcFullWoodenLeggings, Full Wooden Leggings
+customnpcs:npcFullWoodenBoots, Full Wooden Boots
+customnpcs:npcTuxedoChest, Tuxedo Chest
+customnpcs:npcTuxedoPants, Tuxedo Pants
+customnpcs:npcTuxedoBottom, Tuxedo Trenchcoat
+customnpcs:npcWizardHead, Wizard Head
+customnpcs:npcWizardChest, Wizard Chest
+customnpcs:npcWizardPants, Wizard Leggings
+customnpcs:npcAssassinHead, Assassins Helmet
+customnpcs:npcAssassinChest, Assassins ChestPlate
+customnpcs:npcAssassinLeggings, Assassins Leggings
+customnpcs:npcAssassinBoots, Assassins Boots
+customnpcs:npcSoldierHead, Soldier Helmet
+customnpcs:npcSoldierChest, Soldier ChestPlate
+customnpcs:npcSoldierLegs, Soldier Leggings
+customnpcs:npcSoldierBottom, Soldier Trenchcoat
+customnpcs:npcX407Head, X407 Prototype Helmet
+customnpcs:npcX407Chest, X407 Prototype ChestPlate
+customnpcs:npcX407Legs, X407 Prototype Leggings
+customnpcs:npcX407Boots, X407 Prototype Boots
+customnpcs:npcMithrilHead, Mithril Helmet
+customnpcs:npcMithrilChest, Mithril ChestPlate
+customnpcs:npcMithrilLegs, Mithril Leggings
+customnpcs:npcMithrilBoots, Mithril Boots
+customnpcs:npcDemonicHead, Demonic Helmet
+customnpcs:npcDemonicChest, Demonic ChestPlate
+customnpcs:npcDemonicLegs, Demonic Leggings
+customnpcs:npcDemonicBoots, Demonic Boots
+customnpcs:npcCommissarHead, Commissar Helmet
+customnpcs:npcCommissarChest, Commissar ChestPlate
+customnpcs:npcCommissarLegs, Commissar Leggings
+customnpcs:npcCommissarBottom, Commissar Trenchcoat
+customnpcs:npcInfantryHelmet, Infantry Helmet
+customnpcs:npcOfficerChest, Officer ChestPlate
+customnpcs:npcCrown2, Crown
+customnpcs:npcCrown, Crown
+customnpcs:npcPaperCrown, Paper Crown
+customnpcs:npcNinjaHead, Ninja Head
+customnpcs:npcNinjaChest, Ninja Chest
+customnpcs:npcNinjaPants, Ninja Leggings
+customnpcs:npcChainSkirt, Chain Skirt
+customnpcs:npcLeatherSkirt, Leather Skirt
+customnpcs:npcGoldSkirt, Golden Skirt
+customnpcs:npcIronSkirt, Iron Skirt
+customnpcs:npcDiamondSkirt, Diamond Skirt
+customnpcs:npcEmeraldSkirt, Emerald Skirt
+customnpcs:npcBronzeSkirt, Bronze Skirt
+customnpcs:npcDemonicSkirt, Demonic Skirt
+customnpcs:npcMithrilSkirt, Mithril Skirt
+customnpcs:npcCoinWooden, Wooden Coin
+customnpcs:npcCoinStone, Stone Coin
+customnpcs:npcCoinBronze, Bronze Coin
+customnpcs:npcCoinIron, Iron Coin
+customnpcs:npcCoinGold, Golden Coin
+customnpcs:npcCoinDiamond, Diamond Coin
+customnpcs:npcCoinEmerald, Emerald Coin
+customnpcs:npcAncientCoin, Ancient Coin
+customnpcs:npcLetter, Letter
+customnpcs:npcPlans, Plans
+customnpcs:npcSatchel, Satchel
+customnpcs:npcBag, Bag
+customnpcs:npcCrystal, Crystal
+customnpcs:npcSeveredEar, Severed Ear
+customnpcs:npcPhone, Phone
+customnpcs:npcBanditMask, Bandit Mask
+customnpcs:npcBrokenArrow, Broken Arrow
+customnpcs:npcEarthElement, Earth Element
+customnpcs:npcWaterElement, Water Element
+customnpcs:npcFireElement, Fire Element
+customnpcs:npcAirElement, Air Element
+customnpcs:npcCarKey, Car Key
+customnpcs:npcKey, Key
+customnpcs:npcKey2, Key
+customnpcs:npcPendant, Pendant
+customnpcs:npcBlueprint, Blueprint
+customnpcs:npcRing, Ring
+customnpcs:npcSkull, Skull
+customnpcs:npcSaphire, Sapphire
+customnpcs:npcRuby, Ruby
+customnpcs:npcAmethyst, Amethyst
+customnpcs:npcBronzeIngot, Bronze Ingot
+customnpcs:npcDemonicIngot, Demonic Ingot
+customnpcs:npcMithrilIngot, Mithril Ingot
+customnpcs:npcAncientScroll, Ancient Scroll
+customnpcs:npcArtifact, Artifact
+customnpcs:npcLocket, Locket
+customnpcs:npcSilk, Silk
+customnpcs:npcStatuette, Statuette
+customnpcs:npcTablet, Tablet
+customnpcs:npcHeart, Heart
+customnpcs:npcMoney, Money
+customnpcs:npcNecklace, Necklace
+customnpcs:npcUsbStick, USB-Stick
 thermalfoundation:ore:0, Copper Ore
 thermalfoundation:ore:1, Tin Ore
 thermalfoundation:ore:2, Silver Ore
@@ -12750,32 +13837,32 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:shard:0, Treated Wood Shard
 tconstruct:shard:0, Constantan Shard
 tconstruct:shard:0, Enderium Shard
@@ -14197,60 +15284,60 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -14607,6 +15694,7 @@ immersiveengineering:bullet:2, Silver Cartridge
 immersiveengineering:bullet:2, Dragon's Breath Cartridge
 immersiveengineering:bullet:2, Phial Cartridge
 immersiveengineering:bullet:2, Flare Cartridge
+immersiveengineering:bullet:2, Crystalized Will Cartridge
 immersiveengineering:chemthrower, Chemical Thrower
 immersiveengineering:railgun, Railgun
 immersiveengineering:skyhook, Engineer's Skyhook
@@ -15776,6 +16864,8 @@ thermaldynamics:cover:0, Sky Stone Block Cover
 thermaldynamics:cover:0, Sky Stone Brick Cover
 thermaldynamics:cover:0, Sky Stone Small Brick Cover
 thermaldynamics:cover:0, Tiny TNT Cover
+thermaldynamics:cover:0, Portal Frame Cover
+thermaldynamics:cover:0, Sticky Ore Cover
 thermaldynamics:cover:0, Compressed Crafting Table Cover
 thermaldynamics:cover:0, Double Compressed Crafting Table Cover
 thermaldynamics:cover:0, Neutronium Block Cover
@@ -15867,6 +16957,91 @@ thermaldynamics:cover:0, Jacaranda Wood Planks Cover
 thermaldynamics:cover:0, Mahogany Wood Planks Cover
 thermaldynamics:cover:0, Ebony Wood Planks Cover
 thermaldynamics:cover:0, Eucalyptus Wood Planks Cover
+thermaldynamics:cover:0, Blank Rune Cover
+thermaldynamics:cover:0, Speed Rune Cover
+thermaldynamics:cover:0, Efficiency Rune Cover
+thermaldynamics:cover:0, Rune of Sacrifice Cover
+thermaldynamics:cover:0, Rune of Self Sacrifice Cover
+thermaldynamics:cover:0, Displacement Rune Cover
+thermaldynamics:cover:0, Rune of Capacity Cover
+thermaldynamics:cover:0, Rune of Augmented Capacity Cover
+thermaldynamics:cover:0, Rune of the Orb Cover
+thermaldynamics:cover:0, Acceleration Rune Cover
+thermaldynamics:cover:0, Charging Rune Cover
+thermaldynamics:cover:0, Ritual Stone Cover
+thermaldynamics:cover:0, Ritual Stone of Water Cover
+thermaldynamics:cover:0, Ritual Stone of Fire Cover
+thermaldynamics:cover:0, Ritual Stone of Earth Cover
+thermaldynamics:cover:0, Ritual Stone of Air Cover
+thermaldynamics:cover:0, Ritual Stone of Dusk Cover
+thermaldynamics:cover:0, Ritual Stone of Dawn Cover
+thermaldynamics:cover:0, Crystal Cluster Cover
+thermaldynamics:cover:0, Crystal Cluster Brick Cover
+thermaldynamics:cover:0, Large Bloodstone Brick Cover
+thermaldynamics:cover:0, Bloodstone Brick Cover
+thermaldynamics:cover:0, Wooden Path Cover
+thermaldynamics:cover:0, Tiled Wooden Path Cover
+thermaldynamics:cover:0, Stone Brick Path Cover
+thermaldynamics:cover:0, Tiled Stone Path Cover
+thermaldynamics:cover:0, Worn Stone Brick Path Cover
+thermaldynamics:cover:0, Tiled Worn Stone Path Cover
+thermaldynamics:cover:0, Obsidian Brick Path Cover
+thermaldynamics:cover:0, Tiled Obsidian Path Cover
+thermaldynamics:cover:0, Raw Stone Bricks Cover
+thermaldynamics:cover:0, Corrosive Stone Bricks Cover
+thermaldynamics:cover:0, Destructive Stone Bricks Cover
+thermaldynamics:cover:0, Vengeful Stone Bricks Cover
+thermaldynamics:cover:0, Steadfast Stone Bricks Cover
+thermaldynamics:cover:0, Small Raw Stone Bricks Cover
+thermaldynamics:cover:0, Small Corrosive Stone Bricks Cover
+thermaldynamics:cover:0, Small Destructive Stone Bricks Cover
+thermaldynamics:cover:0, Small Vengeful Stone Bricks Cover
+thermaldynamics:cover:0, Small Steadfast Stone Bricks Cover
+thermaldynamics:cover:0, Raw Stone Tiles Cover
+thermaldynamics:cover:0, Corrosive Stone Tiles Cover
+thermaldynamics:cover:0, Destructive Stone Tiles Cover
+thermaldynamics:cover:0, Vengeful Stone Tiles Cover
+thermaldynamics:cover:0, Steadfast Stone Tiles Cover
+thermaldynamics:cover:0, Accented Raw Stone Tiles Cover
+thermaldynamics:cover:0, Accented Corrosive Stone Tiles Cover
+thermaldynamics:cover:0, Accented Destructive Stone Tiles Cover
+thermaldynamics:cover:0, Accented Vengeful Stone Tiles Cover
+thermaldynamics:cover:0, Accented Steadfast Stone Tiles Cover
+thermaldynamics:cover:0, Raw Stone Cover
+thermaldynamics:cover:0, Corrosive Stone Cover
+thermaldynamics:cover:0, Destructive Stone Cover
+thermaldynamics:cover:0, Vengeful Stone Cover
+thermaldynamics:cover:0, Steadfast Stone Cover
+thermaldynamics:cover:0, Polished Raw Stone Cover
+thermaldynamics:cover:0, Polished Corrosive Stone Cover
+thermaldynamics:cover:0, Polished Destructive Stone Cover
+thermaldynamics:cover:0, Polished Vengeful Stone Cover
+thermaldynamics:cover:0, Polished Steadfast Stone Cover
+thermaldynamics:cover:0, Raw Demon Alloy Cover
+thermaldynamics:cover:0, Corrosive Demon Alloy Cover
+thermaldynamics:cover:0, Destructive Demon Alloy Cover
+thermaldynamics:cover:0, Vengeful Demon Alloy Cover
+thermaldynamics:cover:0, Steadfast Demon Alloy Cover
+thermaldynamics:cover:0, Raw Stone Pillar Cover
+thermaldynamics:cover:0, Corrosive Stone Pillar Cover
+thermaldynamics:cover:0, Destructive Stone Pillar Cover
+thermaldynamics:cover:0, Vengeful Stone Pillar Cover
+thermaldynamics:cover:0, Steadfast Stone Pillar Cover
+thermaldynamics:cover:0, Accented Raw Stone Pillar Cover
+thermaldynamics:cover:0, Accented Corrosive Stone Pillar Cover
+thermaldynamics:cover:0, Accented Destructive Stone Pillar Cover
+thermaldynamics:cover:0, Accented Vengeful Stone Pillar Cover
+thermaldynamics:cover:0, Accented Steadfast Stone Pillar Cover
+thermaldynamics:cover:0, Raw Stone Pillar Cap Cover
+thermaldynamics:cover:0, Corrosive Stone Pillar Cap Cover
+thermaldynamics:cover:0, Destructive Stone Pillar Cap Cover
+thermaldynamics:cover:0, Vengeful Stone Pillar Cap Cover
+thermaldynamics:cover:0, Steadfast Stone Pillar Cap Cover
+thermaldynamics:cover:0, Raw Demon Eye Cover
+thermaldynamics:cover:0, Corrosive Demon Eye Cover
+thermaldynamics:cover:0, Destructive Demon Eye Cover
+thermaldynamics:cover:0, Vengeful Demon Eye Cover
+thermaldynamics:cover:0, Steadfast Demon Eye Cover
 thermaldynamics:cover:0, Reinforced Stone Cover
 thermaldynamics:cover:0, Reinforced Stone Brick Cover
 thermaldynamics:cover:0, Reinforced Dirt Cover
@@ -17912,6 +19087,22 @@ thermaldynamics:cover:0, Orange Wool Cover
 thermaldynamics:cover:0, Orange Wool Cover
 thermaldynamics:cover:0, Wool Cover
 thermaldynamics:cover:0, Wool Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
+thermaldynamics:cover:0, Placeholder Cover
 thermaldynamics:cover:0, Copper Ore Cover
 thermaldynamics:cover:0, Tin Ore Cover
 thermaldynamics:cover:0, Silver Ore Cover
@@ -18387,3 +19578,68 @@ tinkersaddons:modifier_item:1, Iron Toolkit
 tinkersaddons:modifier_item:2, Gold Toolkit
 tinkersaddons:modifier_item:3, Diamond Toolkit
 tinkersaddons:modifier_item:4, Ender Toolkit
+woot:factory, Mob Factory/Spawner/Grinder
+woot:upgrade:0, Rate I Upgrade
+woot:upgrade:1, Rate II Upgrade
+woot:upgrade:2, Rate III Upgrade
+woot:upgrade:3, Looting I Upgrade
+woot:upgrade:4, Looting II Upgrade
+woot:upgrade:5, Looting III Upgrade
+woot:upgrade:6, XP I Upgrade
+woot:upgrade:7, XP II Upgrade
+woot:upgrade:8, XP III Upgrade
+woot:upgrade:9, Mass I Upgrade
+woot:upgrade:10, Mass II Upgrade
+woot:upgrade:11, Mass III Upgrade
+woot:upgrade:12, Decapitate I Upgrade
+woot:upgrade:13, Decapitate II Upgrade
+woot:upgrade:14, Decapitate III Upgrade
+woot:upgradeb:0, Efficiency I Upgrade
+woot:upgradeb:1, Efficiency II Upgrade
+woot:upgradeb:2, Efficiency III Upgrade
+woot:upgradeb:3, Blood Magic I Upgrade
+woot:upgradeb:4, Blood Magic II Upgrade
+woot:upgradeb:5, Blood Magic III Upgrade
+woot:structure:0, Mob Factory Block Gray
+woot:structure:1, Mob Factory Block Red
+woot:structure:2, Mob Factory Block Orange
+woot:structure:3, Mob Factory Block Green
+woot:structure:4, Mob Factory Block White
+woot:structure:5, Mob Factory Tier I Cap Stone
+woot:structure:6, Mob Factory Tier II Cap Stone
+woot:structure:7, Mob Factory Tier III Cap Stone
+woot:structure:8, Mob Factory Tier IV Cap Stone
+woot:controller, Mob Controller
+woot:layout, Mob Factory Layout
+woot:proxy, Mob Factory Proxy
+woot:extender, Mob Factory Extender
+woot:prism, Mob Prism
+woot:xpShard, Xp Shard
+woot:skull:0, Iron Plated Skull
+woot:skull:1, Gold Plated Skull
+woot:skull:2, Diamond Encrusted Skull
+woot:skull:3, Emerald Encrusted Skull
+woot:shard:0, Diamond Shard
+woot:shard:1, Emerald Shard
+woot:shard:2, Quartz Shard
+woot:shard:3, Nether Star Shard
+woot:dye:0, Casing Die
+woot:dye:1, Connector Die
+woot:dye:2, Plate Die
+woot:dye:3, Shard Die
+woot:dye:4, Skull Die
+woot:dye:5, Mesh Die
+woot:dye:6, Prism Die
+woot:factoryFrame, Factory Frame [Deprecated]
+woot:factoryupgrade:0, Tier I Upgrade
+woot:factoryupgrade:1, Tier II Upgrade
+woot:factoryupgrade:2, Tier III Upgrade
+woot:ferrocrete, UnderIron
+woot:ferrocreteplate, UnderIron Plate
+woot:factorycasing, Factory Casing
+woot:prismframe, Mob Prism Frame
+woot:yahhammer, Yah Hammer
+woot:pulverisedferrocrete, Pulverised UnderIron
+woot:factorycap, Factory Cap
+woot:factoryconnector, Factory Connector
+woot:manual, Woot Manual [WIP]
